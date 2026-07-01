@@ -1,0 +1,7 @@
+{
+  "average_latency_seconds": 0.172023,
+  "embedding_duration_seconds": 64.85273,
+  "failed_embeddings": 0,
+  "skipped_embeddings": 0,
+  "vectors_created": 377
+}

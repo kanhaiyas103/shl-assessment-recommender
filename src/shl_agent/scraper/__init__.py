@@ -1,0 +1,1 @@
+"""SHL catalog acquisition contracts."""

@@ -1,0 +1,3828 @@
+{
+  "catalog_checksum": "sha256:f56fad57f04809b00628c107b402b4525d5cca15fc9e541ffbfff9ffc7a66efd",
+  "catalog_version": "2026-06-30",
+  "embedding_dimension": 384,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "records": [
+    {
+      "assessment_id": "3827",
+      "document_checksum": "sha256:f8d5f77d0fc607102f7972a44882109279f6907ee8e33c93355dcbd687da00c2",
+      "name": ".NET Framework 4.5",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+      "vector_index": 0
+    },
+    {
+      "assessment_id": "4094",
+      "document_checksum": "sha256:be4e79edd15fa7706f0127efe3d820a64e5f4301b6809b01cd190f6d23779955",
+      "name": ".NET MVC (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+      "vector_index": 1
+    },
+    {
+      "assessment_id": "4099",
+      "document_checksum": "sha256:e49e124ec8a937e572c9910cf61c3e07ca115c241e656f3a5a0c56f46c306089",
+      "name": ".NET MVVM (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+      "vector_index": 2
+    },
+    {
+      "assessment_id": "4018",
+      "document_checksum": "sha256:36b639d57c39fddb138af16ce0bdb3303d1d475878681b7e17740633c3a5a9db",
+      "name": ".NET WCF (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+      "vector_index": 3
+    },
+    {
+      "assessment_id": "4016",
+      "document_checksum": "sha256:63bf09e414e3a46545f66919c47fc18e35a42f2e058f7a0cdbf3ec1b23801d33",
+      "name": ".NET WPF (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+      "vector_index": 4
+    },
+    {
+      "assessment_id": "4165",
+      "document_checksum": "sha256:cb73f758128503af7c4a074891ec22ed84a776a30d1a55da2d7c825a66943b5a",
+      "name": ".NET XAML (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+      "vector_index": 5
+    },
+    {
+      "assessment_id": "4297",
+      "document_checksum": "sha256:a1132e4353cfe145264874f605549deba7e7129df354e84da83000e2ce724587",
+      "name": "360 Digital Report",
+      "test_types": [
+        "D"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+      "vector_index": 6
+    },
+    {
+      "assessment_id": "744",
+      "document_checksum": "sha256:b3e9709c1581eb2f935f7a0a46fbd013bd69fd7acccd7ccb05f35c13ebcdd65d",
+      "name": "360° Multi-Rater Feedback System (MFS)",
+      "test_types": [
+        "D",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+      "vector_index": 7
+    },
+    {
+      "assessment_id": "4178",
+      "document_checksum": "sha256:9b16d5a6af93cc4111c8a3c2171b903c4947a0b952ac927b4bd4ade177f3c575",
+      "name": "Accounts Payable (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+      "vector_index": 8
+    },
+    {
+      "assessment_id": "4187",
+      "document_checksum": "sha256:1a0b10ab4306f8250bbafc4f673b2da66880ed58f3f81e1d5c52c8a3a800953e",
+      "name": "Accounts Payable Simulation (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+      "vector_index": 9
+    },
+    {
+      "assessment_id": "4179",
+      "document_checksum": "sha256:4f0ed27756e0ec7188ce78673c80951abcbb7b224a860e60dceb8faff1d0efb0",
+      "name": "Accounts Receivable (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+      "vector_index": 10
+    },
+    {
+      "assessment_id": "4188",
+      "document_checksum": "sha256:c6003a2738f4692156e885833ad96eb4b61f2191a732d4997f85722d3b9a9333",
+      "name": "Accounts Receivable Simulation (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+      "vector_index": 11
+    },
+    {
+      "assessment_id": "4168",
+      "document_checksum": "sha256:5ac13f74aa80976f1723c3ebc1a50d202b0ef6c2d16ac516dbf72ba94324da10",
+      "name": "ADO.NET (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+      "vector_index": 12
+    },
+    {
+      "assessment_id": "4019",
+      "document_checksum": "sha256:71e62c0147edbca781095ab162687617f131fa8e094a0c95e73576f2d381f514",
+      "name": "Adobe Experience Manager (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+      "vector_index": 13
+    },
+    {
+      "assessment_id": "3778",
+      "document_checksum": "sha256:3149d61742a3591c33f1698e419c173ab67bf9d406500e2747c08430e43e0c72",
+      "name": "Adobe Photoshop CC",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+      "vector_index": 14
+    },
+    {
+      "assessment_id": "4069",
+      "document_checksum": "sha256:ceb083281c8a567a5e66f60e29de68deda54f2d182ba8d0fb742906e3c5cc3c5",
+      "name": "Aeronautical Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+      "vector_index": 15
+    },
+    {
+      "assessment_id": "4004",
+      "document_checksum": "sha256:23afaee8c98de233f5e9a21274b5c8f8e6b2cf8b2e65b6d938be840bb0b625e5",
+      "name": "Aerospace Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+      "vector_index": 16
+    },
+    {
+      "assessment_id": "4223",
+      "document_checksum": "sha256:a92777ff73ba74536452c1050b9cf7afaf8c217996322c98598aad0e116859d2",
+      "name": "Agile Software Development",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+      "vector_index": 17
+    },
+    {
+      "assessment_id": "4159",
+      "document_checksum": "sha256:42798bd107e3689cc362884fe738d2342de31d4f95471d77b4eb1e6cf8e337cb",
+      "name": "Agile Testing (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+      "vector_index": 18
+    },
+    {
+      "assessment_id": "4311",
+      "document_checksum": "sha256:a2ec7b25ce6ef0b0820f036de811ae9b08471727fe9a87fc54d6b75cb5119fdc",
+      "name": "AI Skills",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+      "vector_index": 19
+    },
+    {
+      "assessment_id": "4028",
+      "document_checksum": "sha256:f68e7b4d737d8668ff98588f1b5ef3db7ce191043d7f2d002833ba8a84f2aa62",
+      "name": "Amazon Web Services (AWS) Development (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+      "vector_index": 20
+    },
+    {
+      "assessment_id": "4160",
+      "document_checksum": "sha256:f045d2485cfaf6a4b8276e5583e0e7d12aab2f213aeed154e025b8cc1142232a",
+      "name": "Android Development (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+      "vector_index": 21
+    },
+    {
+      "assessment_id": "4153",
+      "document_checksum": "sha256:81196365a83ae4ed89cc8d68a0c79e821188c265b3d7b8b659bd5f83e7d997d8",
+      "name": "Angular 6 (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+      "vector_index": 22
+    },
+    {
+      "assessment_id": "4021",
+      "document_checksum": "sha256:da5c0e6a0d3eef5486f53c50a423f7d45bb5a151a0f87d2154eb20253f88e377",
+      "name": "AngularJS (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+      "vector_index": 23
+    },
+    {
+      "assessment_id": "4030",
+      "document_checksum": "sha256:2958cf0f5a9fe80474008f377f17ff238da8cc342d9aa6e9fb2d70c3cee974af",
+      "name": "Apache Hadoop (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+      "vector_index": 24
+    },
+    {
+      "assessment_id": "4011",
+      "document_checksum": "sha256:ba746fd53c79fc1b854bc13eddb226bc5d7c9716ef02a520421bd55cf42d5630",
+      "name": "Apache Hadoop Extensions (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+      "vector_index": 25
+    },
+    {
+      "assessment_id": "4073",
+      "document_checksum": "sha256:8a5c8a686b992e6f73267c683ebdcef6bdb9007e2936c6216be691035912a638",
+      "name": "Apache HBase (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+      "vector_index": 26
+    },
+    {
+      "assessment_id": "4075",
+      "document_checksum": "sha256:e3a0f75dcda7aa64f863cf31ba7a7ad9136ffb1ad4cddcc61ed03592b19e323e",
+      "name": "Apache Hive (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+      "vector_index": 27
+    },
+    {
+      "assessment_id": "4022",
+      "document_checksum": "sha256:fe7af780b02f38be6c10cd934b3c4c05256cecd573a910d232ef428827eef3a4",
+      "name": "Apache Kafka (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+      "vector_index": 28
+    },
+    {
+      "assessment_id": "4115",
+      "document_checksum": "sha256:778a16cb17816f72cc44187072ebc81493f990a9d0cee13bdd9ed76c7b8cb3b0",
+      "name": "Apache Pig (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+      "vector_index": 29
+    },
+    {
+      "assessment_id": "4023",
+      "document_checksum": "sha256:1198c4d476ea8f022f3d6f27e728696cf9d84fd6b1fea0560615377fb73aafbe",
+      "name": "Apache Spark (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+      "vector_index": 30
+    },
+    {
+      "assessment_id": "4017",
+      "document_checksum": "sha256:7d8416c20869af94547ff3e1b164afdab2e49161e95d39d118b0313045955f3b",
+      "name": "ASP .NET with C# (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+      "vector_index": 31
+    },
+    {
+      "assessment_id": "3786",
+      "document_checksum": "sha256:52b90a3c0b0f715d7108732831b0d0ecd7388c77c2c19e47afc66551015f9b34",
+      "name": "ASP.NET 4.5",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+      "vector_index": 32
+    },
+    {
+      "assessment_id": "4219",
+      "document_checksum": "sha256:d17c57d2d26386b14afa7583d4edf10449dab1053f1de13dab6e6b77ebf0c038",
+      "name": "Assessment and Development Center Exercises",
+      "test_types": [
+        "E"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+      "vector_index": 33
+    },
+    {
+      "assessment_id": "3984",
+      "document_checksum": "sha256:a8ac0f7361ecfcb49cfe0dbdb3d9c55e1f8d3b9f1f26f6cafe9aaa2064bcdb75",
+      "name": "Automata (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+      "vector_index": 34
+    },
+    {
+      "assessment_id": "3980",
+      "document_checksum": "sha256:3434cb193a0cd4a8280361c24b6e3dd1d0106a7f6b12e8ad72624ce838276c7f",
+      "name": "Automata - Fix (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+      "vector_index": 35
+    },
+    {
+      "assessment_id": "3981",
+      "document_checksum": "sha256:ea6f82f4433af1c517f212fe9ff76129333939eae21eb65f582f7bf21d840e87",
+      "name": "Automata - SQL (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+      "vector_index": 36
+    },
+    {
+      "assessment_id": "3982",
+      "document_checksum": "sha256:6988cad3286aabd87ef7ac760a4e572d41fd56654c1f57b39b5777ed3f70725e",
+      "name": "Automata Data Science (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+      "vector_index": 37
+    },
+    {
+      "assessment_id": "3983",
+      "document_checksum": "sha256:9972182a09004d09ff0c0c3347434b6a72f757a274407e320aedd943b6281c32",
+      "name": "Automata Data Science Pro (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+      "vector_index": 38
+    },
+    {
+      "assessment_id": "4222",
+      "document_checksum": "sha256:77b99d4fab7a097f0e9cba674bceb63df297a67a36f6fee9f8345b8d2e14d4fb",
+      "name": "Automata Front End",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+      "vector_index": 39
+    },
+    {
+      "assessment_id": "3985",
+      "document_checksum": "sha256:9a32d814b4149e4e283a4cff535842986ff552e6bc711cf30183c9e532c1f107",
+      "name": "Automata Pro (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+      "vector_index": 40
+    },
+    {
+      "assessment_id": "4229",
+      "document_checksum": "sha256:bdf82ae8d7a65dc52d0f68822b9ca91757116ba4cb51eb77d3a84bdac4d3848c",
+      "name": "Automata Selenium",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+      "vector_index": 41
+    },
+    {
+      "assessment_id": "4026",
+      "document_checksum": "sha256:caa064c407731cc4127dd7b87277d0eacbddc13ce4b83907e78723f328be0353",
+      "name": "Automation Anywhere RPA Development (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+      "vector_index": 42
+    },
+    {
+      "assessment_id": "4025",
+      "document_checksum": "sha256:fa86212e607c27fcd972ba3ae16f4d105cd47b1a8a6cde5e7d5a56d89c2d3322",
+      "name": "Automotive Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+      "vector_index": 43
+    },
+    {
+      "assessment_id": "3988",
+      "document_checksum": "sha256:7812c43f895c148ea25952012edf33e34099b397066940cd13d34b9964934f8f",
+      "name": "Basic Biology (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+      "vector_index": 44
+    },
+    {
+      "assessment_id": "4206",
+      "document_checksum": "sha256:4e7955416b3a25aaab34a7e6f58f75e3fd685aa40da742fbe992c740d4fd49b0",
+      "name": "Basic Computer Literacy (Windows 10) (New)",
+      "test_types": [
+        "S",
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+      "vector_index": 45
+    },
+    {
+      "assessment_id": "4149",
+      "document_checksum": "sha256:7bdb5b9415000037ec4d2b1f1c5371c804d2d9a15f490546732f1ca9fe9a509e",
+      "name": "Basic Statistics (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+      "vector_index": 46
+    },
+    {
+      "assessment_id": "4161",
+      "document_checksum": "sha256:3a7c92b63a626e8190388658eb100dfd550eaec64d48ff85bd8cca25e2976be3",
+      "name": "Biochemistry (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+      "vector_index": 47
+    },
+    {
+      "assessment_id": "4036",
+      "document_checksum": "sha256:088f85d073ccb117f604e529e88dbbe630c820cf7596c4884c925adedb99414e",
+      "name": "Biotech Lab Techniques (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+      "vector_index": 48
+    },
+    {
+      "assessment_id": "4037",
+      "document_checksum": "sha256:1343c0258a2d2c5d1dcc77ca48d29655059d25e1067e693777da04c8034c545d",
+      "name": "BizTalk (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+      "vector_index": 49
+    },
+    {
+      "assessment_id": "244",
+      "document_checksum": "sha256:7e87e1478a70fc2ea93811d83bb6c8b8229afba8aa741140aef7717d71ab305e",
+      "name": "Business Communication (adaptive)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+      "vector_index": 50
+    },
+    {
+      "assessment_id": "536",
+      "document_checksum": "sha256:a5bd1edff9e16bdf6bdaf3aaa33e27a726a35240e3886bf15542bc8d43553796",
+      "name": "Business Communications",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+      "vector_index": 51
+    },
+    {
+      "assessment_id": "4038",
+      "document_checksum": "sha256:aa5e1658756da5cb33df8b9d205b50657a91fca1b61b1f493b67bd50822998b1",
+      "name": "C Programming (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+      "vector_index": 52
+    },
+    {
+      "assessment_id": "4039",
+      "document_checksum": "sha256:9e239ad33355cbc0d4c15737ea2558e9b26595c73c71b1306960701ff1e09aad",
+      "name": "C# Programming (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+      "vector_index": 53
+    },
+    {
+      "assessment_id": "4122",
+      "document_checksum": "sha256:deebde026ca76285919aa67dbd96178c20ec2019642a33cfb07e125f28417f5a",
+      "name": "C++ Programming (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+      "vector_index": 54
+    },
+    {
+      "assessment_id": "4077",
+      "document_checksum": "sha256:2828cb1820b3bafd14ee6767f77224c611c16fb3805a1f67e3cbb799043c055f",
+      "name": "Cardiology and Diabetes Management (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+      "vector_index": 55
+    },
+    {
+      "assessment_id": "4044",
+      "document_checksum": "sha256:e07b15b0ccb1b5946662bdc82cb14edf84a2fcb7fd668459adc4ca1dba8d00ed",
+      "name": "Ceramic Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+      "vector_index": 56
+    },
+    {
+      "assessment_id": "4012",
+      "document_checksum": "sha256:ea7d4c697b047d31ad072f3a0b79e6b58164585264dfdd86b1a576f73a2b9e69",
+      "name": "Chemical Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+      "vector_index": 57
+    },
+    {
+      "assessment_id": "4024",
+      "document_checksum": "sha256:a83c515acb513a5c179ad894d2e5acba6824f0e4f17b69ede8b4bbee6508d1ae",
+      "name": "Cisco AppDynamics (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+      "vector_index": 58
+    },
+    {
+      "assessment_id": "4150",
+      "document_checksum": "sha256:f5ac1259af41dd214736b9b416dd164d80fc1e91d18e47feab19947616d5a77f",
+      "name": "Civil Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+      "vector_index": 59
+    },
+    {
+      "assessment_id": "4045",
+      "document_checksum": "sha256:57fd44eaaff42ed2cdcaf85d14b462f25002e8a8e23f2ada22462cce85ba834c",
+      "name": "Cloud Computing (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+      "vector_index": 60
+    },
+    {
+      "assessment_id": "4046",
+      "document_checksum": "sha256:696e2e1d4e8b94f10196fd40a0f270cef85afe386cd6ed0900ee1c3349f397a3",
+      "name": "COBOL Programming (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+      "vector_index": 61
+    },
+    {
+      "assessment_id": "4104",
+      "document_checksum": "sha256:22c3d0e75f4061aa13975fab743d72e06d8f2862ab42bc526abd2539e478a08e",
+      "name": "Computer Science (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+      "vector_index": 62
+    },
+    {
+      "assessment_id": "4189",
+      "document_checksum": "sha256:a99486aded70f72b15c9980775e4119df1ccf800c8382d5db801c534d16e4e92",
+      "name": "Contact Center Call Simulation (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+      "vector_index": 63
+    },
+    {
+      "assessment_id": "4296",
+      "document_checksum": "sha256:8169188a6282c64e7130d9ec264c0ef9c251afb79358aae800b3626fb3a74d5e",
+      "name": "Conversational Multichat Simulation",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+      "vector_index": 64
+    },
+    {
+      "assessment_id": "4034",
+      "document_checksum": "sha256:d79c88e1dc4293c2b590212de769181a70e7e89e7458d62ba6df4996a355fb44",
+      "name": "Core Java (Advanced Level) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+      "vector_index": 65
+    },
+    {
+      "assessment_id": "4032",
+      "document_checksum": "sha256:e13b3481fd9c7d82a5b8b2e53884dda89a9085085698a5b31098859533353995",
+      "name": "Core Java (Entry Level) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+      "vector_index": 66
+    },
+    {
+      "assessment_id": "3458",
+      "document_checksum": "sha256:48e9ffee57b571135230e07ef0b117231bad8318976af4a72158c605ddfde2ba",
+      "name": "Count Out The Money",
+      "test_types": [
+        "K",
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+      "vector_index": 67
+    },
+    {
+      "assessment_id": "4052",
+      "document_checksum": "sha256:23f010509913cf4a6951e555169e2c945f7ec9b551c77ac10bd9696f96803e6f",
+      "name": "CSS3 (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
+      "vector_index": 68
+    },
+    {
+      "assessment_id": "4050",
+      "document_checksum": "sha256:ac43a72146217dcdaedf651a8f0ecfb08c95eda0a193bbbfd50c6e3161d927f4",
+      "name": "Culinary Skills (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+      "vector_index": 69
+    },
+    {
+      "assessment_id": "3933",
+      "document_checksum": "sha256:e70332cfa115ab9d26b8a20f385813871d352151856065a29d5715e83ec383bb",
+      "name": "Customer Service Phone Simulation",
+      "test_types": [
+        "B",
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+      "vector_index": 70
+    },
+    {
+      "assessment_id": "3931",
+      "document_checksum": "sha256:bab52b7385841afd872686ae3a3b3409424cff05632f2f1611bff65f978598c9",
+      "name": "Customer Service Phone Solution",
+      "test_types": [
+        "B",
+        "P",
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+      "vector_index": 71
+    },
+    {
+      "assessment_id": "4053",
+      "document_checksum": "sha256:ac23274fcba87f402886263c84844337b79e2d98cb234f761b3526d33f44413c",
+      "name": "Cyber Risk (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+      "vector_index": 72
+    },
+    {
+      "assessment_id": "4186",
+      "document_checksum": "sha256:88b85f186ecfdeb40c1af2487f643c846d915a796c15dcd922b6165867133f9b",
+      "name": "Data Entry (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+      "vector_index": 73
+    },
+    {
+      "assessment_id": "778",
+      "document_checksum": "sha256:d2752d7b5805e33ad3995c8ace933825dfe777cfcbd12494784a9f43f28fa5d0",
+      "name": "Data Entry Alphanumeric Split Screen - US",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+      "vector_index": 74
+    },
+    {
+      "assessment_id": "779",
+      "document_checksum": "sha256:e22fd97cb453a7a1422a7cef52eb8b5b87ef01c7b3755faa5315f00772ac5fd2",
+      "name": "Data Entry Numeric Split Screen - US",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+      "vector_index": 75
+    },
+    {
+      "assessment_id": "785",
+      "document_checksum": "sha256:4f8b497cf778e595198d9e9697f4d5f10116097f6ca449ecd652cb86228387d3",
+      "name": "Data Entry Ten Key Split Screen",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+      "vector_index": 76
+    },
+    {
+      "assessment_id": "4013",
+      "document_checksum": "sha256:e1692f7699682b617611b179ee1de4319acb479a0f5913b601a7d3fa7c0463bb",
+      "name": "Data Science (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+      "vector_index": 77
+    },
+    {
+      "assessment_id": "56",
+      "document_checksum": "sha256:e192e3f2d6bb9f70917087ad791dda8378f8feeed4edff60135aa9cedf2ddd7a",
+      "name": "Data Warehousing Concepts",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
+      "vector_index": 78
+    },
+    {
+      "assessment_id": "731",
+      "document_checksum": "sha256:368b8d25e0e0d6225d18bfd966ff01079f1a6034de046a59d8829b3943b02915",
+      "name": "Dependability and Safety Instrument (DSI)",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+      "vector_index": 79
+    },
+    {
+      "assessment_id": "4162",
+      "document_checksum": "sha256:0343485d2f59d5e360a31af35bd17ec2896ea2c25ff51b55a2a3ebf8aa07fc79",
+      "name": "Dermatology (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
+      "vector_index": 80
+    },
+    {
+      "assessment_id": "4101",
+      "document_checksum": "sha256:516a8c684ff3a133f6ba5e39bddaac3c3a684b96aefcf44ed2ec5c6e83f84e9c",
+      "name": "Desktop Support (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
+      "vector_index": 81
+    },
+    {
+      "assessment_id": "4003",
+      "document_checksum": "sha256:2fc7d588a2086f721ebdbc9c6fd8b6606601b10eaf44c6bebe3276698c563d7e",
+      "name": "Digital Advertising (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
+      "vector_index": 82
+    },
+    {
+      "assessment_id": "4221",
+      "document_checksum": "sha256:47dff92621a7eae19aa4e285c29f9a13498c47f9ee5ff90ced2e79976be388e0",
+      "name": "Digital Readiness Development Report - IC",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
+      "vector_index": 83
+    },
+    {
+      "assessment_id": "4239",
+      "document_checksum": "sha256:78cdd31ecdb0ef445dc46e14b01d925b8d9498f4e8062243009a964e974f5fb0",
+      "name": "Digital Readiness Development Report - Manager",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
+      "vector_index": 84
+    },
+    {
+      "assessment_id": "4059",
+      "document_checksum": "sha256:604e0786c4976670457a91aebde801f222113719bb38146f12e59cbb252e35cd",
+      "name": "Docker (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+      "vector_index": 85
+    },
+    {
+      "assessment_id": "4060",
+      "document_checksum": "sha256:9424e28e6412ba6d05cc6716802cbe7ddc5d69830537c22664eddc77c4545d4b",
+      "name": "Dojo (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/dojo-new/",
+      "vector_index": 86
+    },
+    {
+      "assessment_id": "4062",
+      "document_checksum": "sha256:424ae3041b71e3e47bd9b254c2ae67572ed9d9757dbf3e86308bb32b2e0f4ce6",
+      "name": "Drupal (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+      "vector_index": 87
+    },
+    {
+      "assessment_id": "1102",
+      "document_checksum": "sha256:cb0aa453ace71f5f66fc7760b1963261b16ce80c557012f8b999770f8e1ed28b",
+      "name": "DSI v1.1 Interpretation Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+      "vector_index": 88
+    },
+    {
+      "assessment_id": "4148",
+      "document_checksum": "sha256:b6ace754ffdfbed6ac8f1dbadc3db60b0355aee330ffb40e0c07698f857bce39",
+      "name": "Econometrics (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
+      "vector_index": 89
+    },
+    {
+      "assessment_id": "4009",
+      "document_checksum": "sha256:b2800388b1cb8459eab8f208ee2b5251ea755dd9c6ae2147c2f27cc5f8782314",
+      "name": "Economics (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/economics-new/",
+      "vector_index": 90
+    },
+    {
+      "assessment_id": "4001",
+      "document_checksum": "sha256:6e4784d16fcea390811314633112fcccc48e8933eb8e73fd6397adde68d065f8",
+      "name": "Electrical and Electronics Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+      "vector_index": 91
+    },
+    {
+      "assessment_id": "4031",
+      "document_checksum": "sha256:7b5b6d839dfe89a26d6833361aef7969662b96ad0379ab68fc8f72366ca37095",
+      "name": "Electrical Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
+      "vector_index": 92
+    },
+    {
+      "assessment_id": "4002",
+      "document_checksum": "sha256:78559ecc1f139a08bc83de6176cc68f639f25cceacc112b8bae099f61b9339ed",
+      "name": "Electronics & Telecommunications Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+      "vector_index": 93
+    },
+    {
+      "assessment_id": "4000",
+      "document_checksum": "sha256:d575f43e1e1ec76cb18f3a3bb7a608fdda25558284c86792fb37b384d8c534fb",
+      "name": "Electronics and Embedded Systems Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+      "vector_index": 94
+    },
+    {
+      "assessment_id": "4139",
+      "document_checksum": "sha256:7c09aacfc3d6b3962535a2669b9b98d1ae3abb3ed0ca629f1ac6aa4e91bd8da4",
+      "name": "Electronics and Semiconductor Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+      "vector_index": 95
+    },
+    {
+      "assessment_id": "4180",
+      "document_checksum": "sha256:97eb2a6d915d51feaf83f4737b67ac4f54e41c22ec77ae372589e1b039123849",
+      "name": "English Comprehension (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+      "vector_index": 96
+    },
+    {
+      "assessment_id": "4063",
+      "document_checksum": "sha256:3987f6864c9f3e924d22a5059049f9182f038a4d76800f7fa2d3307537905573",
+      "name": "Enterprise Java Beans (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
+      "vector_index": 97
+    },
+    {
+      "assessment_id": "3856",
+      "document_checksum": "sha256:f74c9068f34c7fc68c6e726fda2dcecf38d81d217673e7af79b0dd7d3d35bcc5",
+      "name": "Enterprise Leadership Report 1.0",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+      "vector_index": 98
+    },
+    {
+      "assessment_id": "4287",
+      "document_checksum": "sha256:e5641bdd41349938ab5da64a672198236414493421cfe4057ea2994bde840a4e",
+      "name": "Enterprise Leadership Report 2.0",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+      "vector_index": 99
+    },
+    {
+      "assessment_id": "3934",
+      "document_checksum": "sha256:a9d737514a4437c84600f85d3c714517707ee17bd37abc853cf4f2cd013f75be",
+      "name": "Entry Level Cashier Solution",
+      "test_types": [
+        "C",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+      "vector_index": 100
+    },
+    {
+      "assessment_id": "3939",
+      "document_checksum": "sha256:97c1723e4e1dd6e771b2ba6371679211e0eaa42276409efc198b106974f109d7",
+      "name": "Entry Level Customer Serv-Retail & Contact Center",
+      "test_types": [
+        "P",
+        "C"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+      "vector_index": 101
+    },
+    {
+      "assessment_id": "3935",
+      "document_checksum": "sha256:1925870021798e85d3c7771ee5cb1943d16beb920a5b23bcaa3ce35dac7ba128",
+      "name": "Entry Level Customer Service (General) Solution",
+      "test_types": [
+        "C",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
+      "vector_index": 102
+    },
+    {
+      "assessment_id": "3936",
+      "document_checksum": "sha256:55c3dbdeb07750c24b6f45bc9463bd5863d250cd75eb4e98262cf09576ab7496",
+      "name": "Entry Level Hotel Front Desk Solution",
+      "test_types": [
+        "C",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+      "vector_index": 103
+    },
+    {
+      "assessment_id": "3937",
+      "document_checksum": "sha256:c457afa223fdca62fbb26cc7db74f856ac9ef776363cd58399bcb03b84d7aea3",
+      "name": "Entry Level Sales Solution",
+      "test_types": [
+        "C",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+      "vector_index": 104
+    },
+    {
+      "assessment_id": "3938",
+      "document_checksum": "sha256:cf02458ae9453aed1596fa1909731ebd22be454eb96f0d15259f42ac41c79365",
+      "name": "Entry Level Technical Support Solution",
+      "test_types": [
+        "P",
+        "C"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
+      "vector_index": 105
+    },
+    {
+      "assessment_id": "4065",
+      "document_checksum": "sha256:8a991a23529de07515dd6fc02f961e9193125c925a88290c7806e055608fa1b4",
+      "name": "ETL Testing (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
+      "vector_index": 106
+    },
+    {
+      "assessment_id": "743",
+      "document_checksum": "sha256:a972a0149add6a5bd42c55e2da93f9a5af19e88384ef331f469a65826aef9a33",
+      "name": "Executive Scenarios",
+      "test_types": [
+        "B"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+      "vector_index": 107
+    },
+    {
+      "assessment_id": "3849",
+      "document_checksum": "sha256:9d4175d8e268d2c9797a903e5fde712dcd7bb32c3310e0356faf4829497c4838",
+      "name": "Executive Scenarios Narrative Report",
+      "test_types": [
+        "B"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
+      "vector_index": 108
+    },
+    {
+      "assessment_id": "3899",
+      "document_checksum": "sha256:5e505ebc3a5f3d6063420ded3072536fb5bfd867684470c746ea85d60a17f53f",
+      "name": "Executive Scenarios Profile Report",
+      "test_types": [
+        "B"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
+      "vector_index": 109
+    },
+    {
+      "assessment_id": "4127",
+      "document_checksum": "sha256:697530fc7e864027ffe07e838809acfb8781d90f9a3d7137d20ecb85af8023a8",
+      "name": "ExpressJS (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+      "vector_index": 110
+    },
+    {
+      "assessment_id": "380",
+      "document_checksum": "sha256:e34983be9dc4dcdf253444c6a350ff9b8b79e05886608607a44a32dcf7a60537",
+      "name": "Filing - Names (R1)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
+      "vector_index": 111
+    },
+    {
+      "assessment_id": "381",
+      "document_checksum": "sha256:70574342eabbb48822b912d0f530acd3a525bce416117be684158eaad5c6bfd4",
+      "name": "Filing - Numbers",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
+      "vector_index": 112
+    },
+    {
+      "assessment_id": "3992",
+      "document_checksum": "sha256:1ce7e5b5d153640c1828d97fbf44f5729ea9973bd2299d9c4a1399130a1f5d65",
+      "name": "Financial Accounting (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+      "vector_index": 113
+    },
+    {
+      "assessment_id": "4083",
+      "document_checksum": "sha256:eab268bd07813db82bfb0da4c9e024a11762963da509d182972f279a5df3874d",
+      "name": "Financial and Banking Services (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+      "vector_index": 114
+    },
+    {
+      "assessment_id": "4067",
+      "document_checksum": "sha256:b53b2a50bc76f19ee3d714265507fbf20fd98fdf090d9d98275ea6b62ad375bf",
+      "name": "Fire Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
+      "vector_index": 115
+    },
+    {
+      "assessment_id": "382",
+      "document_checksum": "sha256:fe1e6c7ce2e05f50f9e107f329fe9cf200b154bb0e2b35472a8f6422d237b75b",
+      "name": "Following Instructions v1 - UK (R1)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
+      "vector_index": 116
+    },
+    {
+      "assessment_id": "383",
+      "document_checksum": "sha256:9e5325b82f6320cf0abed3d41d6f08daab688abfa9a0ce60b6614766cc2445ea",
+      "name": "Following Instructions v1 - US (R2)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
+      "vector_index": 117
+    },
+    {
+      "assessment_id": "4090",
+      "document_checksum": "sha256:9993f112796575857c8d4469d89f10b9feadc9cbe467d6efc1969b8a17868c01",
+      "name": "Food and Beverage Services (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
+      "vector_index": 118
+    },
+    {
+      "assessment_id": "4071",
+      "document_checksum": "sha256:c21fef618112e05670c5f2701443a1b0a6d3c73ae87461ec63d546217692800a",
+      "name": "Food Science (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/food-science-new/",
+      "vector_index": 119
+    },
+    {
+      "assessment_id": "4072",
+      "document_checksum": "sha256:7855f68d7249d1308a02fe59244400a8475a1eb83825009d17d9fd61e73977a9",
+      "name": "Front Office Management (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
+      "vector_index": 120
+    },
+    {
+      "assessment_id": "4113",
+      "document_checksum": "sha256:e13e47bcbb24baf7afe30230801ca87b9e98111df7b61ba50d7767effce14b13",
+      "name": "Fundamentals of Chemistry (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
+      "vector_index": 121
+    },
+    {
+      "assessment_id": "4043",
+      "document_checksum": "sha256:21b3ed1e7a26960f7b28eb6f52c8670c0996e6088380d4fc937caf0805b026d3",
+      "name": "Fundamentals of Physics (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
+      "vector_index": 122
+    },
+    {
+      "assessment_id": "4048",
+      "document_checksum": "sha256:7ee3de149f52d1b6a13b0dec4c0a279786e312599fbdb716867ea0d20047e4b6",
+      "name": "General Diseases (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
+      "vector_index": 123
+    },
+    {
+      "assessment_id": "4125",
+      "document_checksum": "sha256:8f5ed583c4a5d686200ebb0ad2e7362639394e77e92a1fa09b5bbd29eb2dd823",
+      "name": "Geoinformatics Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
+      "vector_index": 124
+    },
+    {
+      "assessment_id": "4066",
+      "document_checksum": "sha256:4aa579bcf6018e096cb04500194ed80c87b05253377ba49c59492103445c6b97",
+      "name": "Geoscience Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
+      "vector_index": 125
+    },
+    {
+      "assessment_id": "4078",
+      "document_checksum": "sha256:ff27effcbd8788b41f04e9424b491fae3c9f37aa89b93b733498b5389bc3b73a",
+      "name": "GIT (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/git-new/",
+      "vector_index": 126
+    },
+    {
+      "assessment_id": "4301",
+      "document_checksum": "sha256:12740aee62e46bf3aa3038a5526e2a292b5a1ee401f989b10ec12d136b04164b",
+      "name": "Global Skills Assessment",
+      "test_types": [
+        "C",
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+      "vector_index": 127
+    },
+    {
+      "assessment_id": "4302",
+      "document_checksum": "sha256:769ef5f5d146c386df543ad7f0a26fc660a1e91fa5829ee99b2e5108b4ffaab5",
+      "name": "Global Skills Development Report",
+      "test_types": [
+        "A",
+        "E",
+        "B",
+        "C",
+        "D",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+      "vector_index": 128
+    },
+    {
+      "assessment_id": "741",
+      "document_checksum": "sha256:c75b6bd211ed3e9a29dcc4f0416550383e564753e96c6e24bc65d5800ddeafcf",
+      "name": "Graduate Scenarios",
+      "test_types": [
+        "B"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+      "vector_index": 129
+    },
+    {
+      "assessment_id": "3900",
+      "document_checksum": "sha256:7f3dd65266251fa83e648587787c980c6458beffaa37843f7c7fdeda12a02204",
+      "name": "Graduate Scenarios Narrative Report",
+      "test_types": [
+        "B"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-narrative-report/",
+      "vector_index": 130
+    },
+    {
+      "assessment_id": "3901",
+      "document_checksum": "sha256:55e6b42e2e3f0ffb45a6096f6869e4701698d4af11b3530e16ce73a75df114a3",
+      "name": "Graduate Scenarios Profile Report",
+      "test_types": [
+        "B"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-profile-report/",
+      "vector_index": 131
+    },
+    {
+      "assessment_id": "4074",
+      "document_checksum": "sha256:6e5f2b959c786279d0413b9d9dd463982bde8d2515b819ff6b01ca060ba54891",
+      "name": "Hibernate (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
+      "vector_index": 132
+    },
+    {
+      "assessment_id": "331",
+      "document_checksum": "sha256:fac532066e9727fb4035d3e540dd3f39a3a24b994a8eaadae5b530dab21591c3",
+      "name": "HIPAA (Security)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+      "vector_index": 133
+    },
+    {
+      "assessment_id": "3845",
+      "document_checksum": "sha256:78c0a85efe1cc1bf9df62277f9a58ab84c1ae19805fe17d09272480ae597a346",
+      "name": "HiPo Assessment Report 1.0",
+      "test_types": [
+        "C",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
+      "vector_index": 134
+    },
+    {
+      "assessment_id": "4284",
+      "document_checksum": "sha256:fefac1c726e5ba206fe3ce67cb673c9d57b00df0332f8ddc404cc6c3c46aa07e",
+      "name": "HiPo Assessment Report 2.0",
+      "test_types": [
+        "C",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
+      "vector_index": 135
+    },
+    {
+      "assessment_id": "4285",
+      "document_checksum": "sha256:a54fd49b9f451303c97b00edb40ae56041ed009df17f52df8c1d8b355fb0faa7",
+      "name": "HiPo Unlocking Potential Report 2.0",
+      "test_types": [
+        "C"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+      "vector_index": 136
+    },
+    {
+      "assessment_id": "4076",
+      "document_checksum": "sha256:87abf92cc11018cf6883d904298478c30bb2121770e371eb2bf15dbcdcd9d146",
+      "name": "Housekeeping (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/housekeeping-new/",
+      "vector_index": 137
+    },
+    {
+      "assessment_id": "4080",
+      "document_checksum": "sha256:5de554cf3a699acaee7b1eb8f57a834f828261dcc67707e3c72173aca5fd5dc3",
+      "name": "HTML/CSS (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
+      "vector_index": 138
+    },
+    {
+      "assessment_id": "4081",
+      "document_checksum": "sha256:10f8244f224faebef72b7070db61be8d5fecf2be1f898e8e4822e35f95cfa781",
+      "name": "HTML5 (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/html5-new/",
+      "vector_index": 139
+    },
+    {
+      "assessment_id": "3999",
+      "document_checksum": "sha256:9e2d095c8e1184c9f6c788df5b2f49928f122b9ce1ac68615da4518022a0e610",
+      "name": "Human Resources (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
+      "vector_index": 140
+    },
+    {
+      "assessment_id": "4169",
+      "document_checksum": "sha256:44b84e37733cea0847bda463d5d0d3ddfd576262b16bb69214717da94814a2a7",
+      "name": "IBM DataStage (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/",
+      "vector_index": 141
+    },
+    {
+      "assessment_id": "4155",
+      "document_checksum": "sha256:33a7e088ff4580a95a6a9ece8cb11480ec7ec8dec80990ffe9de8f93bf601b9b",
+      "name": "IBM Sterling Order Management System (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+      "vector_index": 142
+    },
+    {
+      "assessment_id": "4005",
+      "document_checksum": "sha256:9068446327c39c78003a6dd923b3771394ec05562b87caabd3c0909f5e24809f",
+      "name": "Industrial Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/",
+      "vector_index": 143
+    },
+    {
+      "assessment_id": "4054",
+      "document_checksum": "sha256:2ddda6d436b2b82d00dae6705ad522625b1a4fc9125bc522498fa7245e046fb2",
+      "name": "Informatica (Architecture) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/",
+      "vector_index": 144
+    },
+    {
+      "assessment_id": "4055",
+      "document_checksum": "sha256:9bb8f17c5af9c880f51d459996c79f10d650c203c37d82fc00b0d919e3f5eac9",
+      "name": "Informatica (Developer) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new/",
+      "vector_index": 145
+    },
+    {
+      "assessment_id": "4007",
+      "document_checksum": "sha256:e47d4d91c65b739736797e02527200106c31bf82e93b2aadda590f915813dfb3",
+      "name": "Instrumentation Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/instrumentation-engineering-new/",
+      "vector_index": 146
+    },
+    {
+      "assessment_id": "249",
+      "document_checksum": "sha256:3d0dc8ee2e18401d7d54ff31056f8fe3e882e076f8479b3f40df912210dc5b15",
+      "name": "Interpersonal Communications",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+      "vector_index": 147
+    },
+    {
+      "assessment_id": "333",
+      "document_checksum": "sha256:46d04edd83650a9a8eb2cce6c067acca4c294cdf8facf97f0b94d4fb12f60818",
+      "name": "Interviewing and Hiring Concepts (U.S.)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
+      "vector_index": 148
+    },
+    {
+      "assessment_id": "4102",
+      "document_checksum": "sha256:e57e27b115a7f2bf81919ab6f6783f4f430069ea3ecad40a3651ca60bdce1d8d",
+      "name": "iOS Development (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/ios-development-new/",
+      "vector_index": 149
+    },
+    {
+      "assessment_id": "4040",
+      "document_checksum": "sha256:362e4f97ca12870c955ddf6acac3d1747f3fda0410107883c5b34e6f38619aba",
+      "name": "ITIL (IT Infrastructure Library) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/itil-it-infrastructure-library-new/",
+      "vector_index": 150
+    },
+    {
+      "assessment_id": "88",
+      "document_checksum": "sha256:e6c0612cd6251f0c928edf4bad809d816e4fe570758c12fb294b04d336646ca6",
+      "name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+      "vector_index": 151
+    },
+    {
+      "assessment_id": "4084",
+      "document_checksum": "sha256:2b857a364c9d1f883f98cc93c191e0c64d237ba5bf8f4e15ea718fd3f255cee3",
+      "name": "Java 8 (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
+      "vector_index": 152
+    },
+    {
+      "assessment_id": "4158",
+      "document_checksum": "sha256:b0c2f7ef678dd18cb11708b973d5c7945a2f74477dca81c8559dcd69c6d6d499",
+      "name": "Java Design Patterns (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
+      "vector_index": 153
+    },
+    {
+      "assessment_id": "4056",
+      "document_checksum": "sha256:59906b77a47fd81d52f2558d41ec7693d4503cbaf6c21d15399fc2e04a067261",
+      "name": "Java Frameworks (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
+      "vector_index": 154
+    },
+    {
+      "assessment_id": "3809",
+      "document_checksum": "sha256:ee8580f11ec99d3be606f7247290946f78ce05e8b6a054b23a391dd245c4a51b",
+      "name": "Java Platform Enterprise Edition 7 (Java EE 7)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
+      "vector_index": 155
+    },
+    {
+      "assessment_id": "4033",
+      "document_checksum": "sha256:f33ed40cf59ef70ac25aac109aa7e867233d4d1e6a931a4c069e8fd630ddc49a",
+      "name": "Java Web Services (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/java-web-services-new/",
+      "vector_index": 156
+    },
+    {
+      "assessment_id": "3989",
+      "document_checksum": "sha256:22a7704b5ab9a6f6ea28bbcddaa03bf665bbbca07203fd475b2482caa8c24e46",
+      "name": "JavaScript (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+      "vector_index": 157
+    },
+    {
+      "assessment_id": "4086",
+      "document_checksum": "sha256:8f61d62704aaadbf5879a14cda334bc03876d375632e3d30b82ce8f53e0dbf8e",
+      "name": "Jenkins (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
+      "vector_index": 158
+    },
+    {
+      "assessment_id": "4085",
+      "document_checksum": "sha256:8f10dda7ec85512e8d9d5219b011595e812baa5a66bae2877089e34370307fbe",
+      "name": "Job Control Language (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/job-control-language-new/",
+      "vector_index": 159
+    },
+    {
+      "assessment_id": "4087",
+      "document_checksum": "sha256:48511c35bab7e9d180f63c88a40972da8f0eb0eb27861fbb7b53b8a47d056fc0",
+      "name": "jQuery (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/jquery-new/",
+      "vector_index": 160
+    },
+    {
+      "assessment_id": "4152",
+      "document_checksum": "sha256:5652d011b41ac71b266f7f8f74f07242f423d95875a247e29d19a330568805f8",
+      "name": "Kubernetes (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
+      "vector_index": 161
+    },
+    {
+      "assessment_id": "3990",
+      "document_checksum": "sha256:13ba70fa64d74a73a65a2550c74fcaeddc20fd866e8aeda8549859b4138419c2",
+      "name": "Linux Administration (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
+      "vector_index": 162
+    },
+    {
+      "assessment_id": "4299",
+      "document_checksum": "sha256:fa7a40d39a6332f2f295946ab44a4fb9b06d3f4bcd29d15a63c7021012e3ee6c",
+      "name": "Linux Operating System",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/linux-operating-system/",
+      "vector_index": 163
+    },
+    {
+      "assessment_id": "205",
+      "document_checksum": "sha256:afa6cffd12459bb64adfef89ce0e3c22cbf253072992efa9b232e2ee6ffc8501",
+      "name": "Linux Programming (General)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+      "vector_index": 164
+    },
+    {
+      "assessment_id": "4170",
+      "document_checksum": "sha256:51a51f34310f7295947a377f3d15f805e7e22f478f177d755f9b8190715be716",
+      "name": "Load Runner (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/load-runner-new/",
+      "vector_index": 165
+    },
+    {
+      "assessment_id": "742",
+      "document_checksum": "sha256:51b225f19211b57fb196dbbd7653befcba963b81d41806fc8318636cc6f72fc2",
+      "name": "Management Scenarios",
+      "test_types": [
+        "B"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
+      "vector_index": 166
+    },
+    {
+      "assessment_id": "3903",
+      "document_checksum": "sha256:da87b0722b244fbc4f32caa70ae9fb6d5d769267fd8a86728ce3ce2e15834ff6",
+      "name": "Managerial Scenarios Candidate Report",
+      "test_types": [
+        "B"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/",
+      "vector_index": 167
+    },
+    {
+      "assessment_id": "3902",
+      "document_checksum": "sha256:65aa6501b9b7ab4945e1adfc5a20c4c6eb665a969f8d7aa2abc6247257b00e99",
+      "name": "Managerial Scenarios Narrative Report",
+      "test_types": [
+        "B"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/",
+      "vector_index": 168
+    },
+    {
+      "assessment_id": "3904",
+      "document_checksum": "sha256:c246f85a3f26738c863699b2d0d16c26ad2e7d8b3ada7da965dd4a629735b646",
+      "name": "Managerial Scenarios Profile Report",
+      "test_types": [
+        "B"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/",
+      "vector_index": 169
+    },
+    {
+      "assessment_id": "4157",
+      "document_checksum": "sha256:b43980b048b4de10b129bf6abbca5a754417fcb5bc29b0f610d8def87f463a21",
+      "name": "Manual Testing (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
+      "vector_index": 170
+    },
+    {
+      "assessment_id": "4291",
+      "document_checksum": "sha256:c1c43a347ac2b3079965285ba5082dfb62cf23566268f05d30c61ad714eb79ba",
+      "name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+      "test_types": [
+        "A",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+      "vector_index": 171
+    },
+    {
+      "assessment_id": "4293",
+      "document_checksum": "sha256:09ab06f51fdffb279d112ec5e55fb7ade1a83596cfb3bb7fa9fb0f9de377a50f",
+      "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+      "vector_index": 172
+    },
+    {
+      "assessment_id": "4295",
+      "document_checksum": "sha256:1e35f7774808c4151cec46a844a8d83fab689546af7fbff9880100595b30aef3",
+      "name": "Manufacturing & Industrial - Essential Focus 8.0",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/essential-focus-8-0/",
+      "vector_index": 173
+    },
+    {
+      "assessment_id": "4292",
+      "document_checksum": "sha256:50e11a4917e27121e4d9df812a010c98032dd68de5f7779a38e7536f9cb217b1",
+      "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+      "test_types": [
+        "A",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mechanical-focus-8-0/",
+      "vector_index": 174
+    },
+    {
+      "assessment_id": "4294",
+      "document_checksum": "sha256:9d9a24c33173b0973000e3803d9cf27a2f1c3dd7f7bf792fa1286238891c85ff",
+      "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+      "test_types": [
+        "A",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/vigilance-focus-8-0/",
+      "vector_index": 175
+    },
+    {
+      "assessment_id": "4008",
+      "document_checksum": "sha256:1417b24de2ced171c8ac65cd59578f5d136588259870f5785c4c21a5c0635d82",
+      "name": "Marketing (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/marketing-new/",
+      "vector_index": 176
+    },
+    {
+      "assessment_id": "4089",
+      "document_checksum": "sha256:dde37438e5c1a75ebafbf405640315a0c720ea36b59d3f10cf9b61219e1655ff",
+      "name": "Maven (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/maven-new/",
+      "vector_index": 177
+    },
+    {
+      "assessment_id": "4006",
+      "document_checksum": "sha256:6bdcae8cb62613c62413533e3de77ef48844dd6c2c6173f6c954ce093339c322",
+      "name": "Mechanical Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mechanical-engineering-new/",
+      "vector_index": 178
+    },
+    {
+      "assessment_id": "4176",
+      "document_checksum": "sha256:95129d785b4e386437e4c859b1c4748fba96fe8bd8312f148da0851b335ecf59",
+      "name": "Mechatronics Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mechatronics-engineering-new/",
+      "vector_index": 179
+    },
+    {
+      "assessment_id": "4058",
+      "document_checksum": "sha256:a97f05e8d622551c473ed61d5dddd4187a596ece653dd1eef27e7b08e9e334ff",
+      "name": "Medical Terminology (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+      "vector_index": 180
+    },
+    {
+      "assessment_id": "4119",
+      "document_checksum": "sha256:045d225fa37ca716c814a18c276d334c4fc71f265aecdd7574f4e746ae97d01c",
+      "name": "Metallurgical Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/metallurgical-engineering-new/",
+      "vector_index": 181
+    },
+    {
+      "assessment_id": "3951",
+      "document_checksum": "sha256:ddf011c23eacb32aa8155bb240fe392d06190274812ab78b78c12d7c1de529b8",
+      "name": "MFS 360 Enterprise Leadership Report",
+      "test_types": [
+        "D"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+      "vector_index": 182
+    },
+    {
+      "assessment_id": "3950",
+      "document_checksum": "sha256:039f1f94ad79798371fd9176a759278d98bf0528e2719164d84710f90648e369",
+      "name": "MFS 360 UCF Group Report",
+      "test_types": [
+        "D"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-group-report/",
+      "vector_index": 183
+    },
+    {
+      "assessment_id": "3949",
+      "document_checksum": "sha256:69058c758fdc06a5ef8e0ec0dd39cc8385f38ab21f95ad05be1c0e9b95393c61",
+      "name": "MFS 360 UCF Performance Potential Dev Tips Report",
+      "test_types": [
+        "D"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+      "vector_index": 184
+    },
+    {
+      "assessment_id": "3948",
+      "document_checksum": "sha256:ec234604fa2a6f0ab0ecd8cc83f163bfe12b64a1d3f0c494352935dbcd734efe",
+      "name": "MFS 360 UCF Standard Report",
+      "test_types": [
+        "D"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-standard-report/",
+      "vector_index": 185
+    },
+    {
+      "assessment_id": "4027",
+      "document_checksum": "sha256:3ee561f195f76fa9bb7affbc4b110e36e21c042e16fdae5f262cad1c3a402db0",
+      "name": "Micro Focus Unified Functional Testing (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+      "vector_index": 186
+    },
+    {
+      "assessment_id": "4091",
+      "document_checksum": "sha256:f8fd61d2479bae9ceeecaf4dddfc99487d82478a08b7f50ccdf1d4a92f34401d",
+      "name": "Microservices (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/microservices-new/",
+      "vector_index": 187
+    },
+    {
+      "assessment_id": "4207",
+      "document_checksum": "sha256:d40a608edb614b73b68d70a5e26b3f2768bfb15f3d35d3827f33a9d145ede710",
+      "name": "Microsoft 365 (New)",
+      "test_types": [
+        "K",
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+      "vector_index": 188
+    },
+    {
+      "assessment_id": "4092",
+      "document_checksum": "sha256:d4b0847c37a715d202a1fedf18ab5b269aeead059c7a317e5e173045665f0ed9",
+      "name": "Microsoft Dynamics Development (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-dynamics-development-new/",
+      "vector_index": 189
+    },
+    {
+      "assessment_id": "4208",
+      "document_checksum": "sha256:419af6ea85ed3f2b566f8fe91f27f2a50e97e3f6d03e050789a6a972bbc1120a",
+      "name": "Microsoft Excel 365 - Essentials (New)",
+      "test_types": [
+        "K",
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+      "vector_index": 190
+    },
+    {
+      "assessment_id": "3785",
+      "document_checksum": "sha256:b43ed972f648d937556f4137884d931de373a489c44578ec9d89338577636314",
+      "name": "Microsoft Outlook 2013 (adaptive)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+      "vector_index": 191
+    },
+    {
+      "assessment_id": "4212",
+      "document_checksum": "sha256:10afc5881ea85067f87c2ed641b103679108c760626b5ba6cf84cceda2d9ca5f",
+      "name": "Microsoft PowerPoint 365 - Essentials (New)",
+      "test_types": [
+        "K",
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+      "vector_index": 192
+    },
+    {
+      "assessment_id": "3789",
+      "document_checksum": "sha256:3fb0b2ed01d233a710d381ce79e250646ffd47db358189ff9d1830767e6cefef",
+      "name": "Microsoft SQL Server 2014 Programming",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+      "vector_index": 193
+    },
+    {
+      "assessment_id": "3807",
+      "document_checksum": "sha256:16cd80a346420d11b890ccb44d5bc9495a1161d703350d5322eeaf7341b1f84c",
+      "name": "Microsoft Windows Server 2012 Administration",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+      "vector_index": 194
+    },
+    {
+      "assessment_id": "4210",
+      "document_checksum": "sha256:c4fdbc528098342bdc27932b14a7de5fd334aa8fc1cc449ca7aa8b836a3a982e",
+      "name": "Microsoft Word 365 (New)",
+      "test_types": [
+        "S",
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+      "vector_index": 195
+    },
+    {
+      "assessment_id": "4211",
+      "document_checksum": "sha256:50dbeab88576dd29833711bc80156a4dae5eb93db19ea389643a8ca67a9dec56",
+      "name": "Microsoft Word 365 - Essentials (New)",
+      "test_types": [
+        "K",
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+      "vector_index": 196
+    },
+    {
+      "assessment_id": "4047",
+      "document_checksum": "sha256:e340d65880db8a21473edfba8be90fd404d160cb1cd4bee14f89c81e8c1e689f",
+      "name": "Mineral Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mineral-engineering-new/",
+      "vector_index": 197
+    },
+    {
+      "assessment_id": "4093",
+      "document_checksum": "sha256:ef3d6851f19509437281e3e35d2fc1e0bb481dd29e9f42d6a673273da2add9e6",
+      "name": "Mining Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mining-engineering-new/",
+      "vector_index": 198
+    },
+    {
+      "assessment_id": "4174",
+      "document_checksum": "sha256:13890d162f76a6b2ebe4b7cd415d4a8e2aaa97ea11bca85b1221731d50aec16f",
+      "name": "Mobility (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mobility-new/",
+      "vector_index": 199
+    },
+    {
+      "assessment_id": "4096",
+      "document_checksum": "sha256:0911b404607a53c7521504ad0d7e781fe9c1771e7d5347029c42ff2fec9298ff",
+      "name": "Molecular Biology (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/molecular-biology-new/",
+      "vector_index": 200
+    },
+    {
+      "assessment_id": "4010",
+      "document_checksum": "sha256:3dac0a42af1b5bb8b0f4fffbe7332c79e3b2924b5e24b5f86d6ad9876223130d",
+      "name": "MongoDB (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mongodb-new/",
+      "vector_index": 201
+    },
+    {
+      "assessment_id": "724",
+      "document_checksum": "sha256:242a96d1d96b93c1ba2a03f10f7a7ab04fdf52a3ca442754edea10fb08a40c5d",
+      "name": "Motivation Questionnaire MQM5",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
+      "vector_index": 202
+    },
+    {
+      "assessment_id": "1308",
+      "document_checksum": "sha256:a10518ab08215a60952e4c5070c8b8923a1a58e12306e448a64d64fc904d9714",
+      "name": "MQ Candidate Motivation Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/",
+      "vector_index": 203
+    },
+    {
+      "assessment_id": "1306",
+      "document_checksum": "sha256:e70b0ff01f5527447f15c9287ce193513b4ace0e6a0a6cd8bca39256f3cb1094",
+      "name": "MQ Employee Motivation Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/",
+      "vector_index": 204
+    },
+    {
+      "assessment_id": "1309",
+      "document_checksum": "sha256:c1e917e01735aabc159667d7d6ddb04ac04d8ee36310820fcdab33bb2d2abc02",
+      "name": "MQ Motivation Report Pack",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/",
+      "vector_index": 205
+    },
+    {
+      "assessment_id": "1048",
+      "document_checksum": "sha256:8114805e5d8569c70c127fa857b7b3b9c76d6c1760f56e8d2b7631dbc1d0d469",
+      "name": "MQ Profile",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mq-profile/",
+      "vector_index": 206
+    },
+    {
+      "assessment_id": "4015",
+      "document_checksum": "sha256:35d2109874ccfbd5650d1295f2fbfe385c9cab6ad5261bbe166977204a800896",
+      "name": "MS Access (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/ms-access-new/",
+      "vector_index": 207
+    },
+    {
+      "assessment_id": "3993",
+      "document_checksum": "sha256:a326ada7a452f97da1e60440bddc109218c54157d7cd57d58399b14b6c245b63",
+      "name": "MS Excel (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+      "vector_index": 208
+    },
+    {
+      "assessment_id": "3995",
+      "document_checksum": "sha256:430546105222a8bd24396283f0e3ef04882b8afdf052132aa66276607d859ffe",
+      "name": "MS Office Basic Computer Literacy (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+      "vector_index": 209
+    },
+    {
+      "assessment_id": "4193",
+      "document_checksum": "sha256:e22d6140524594723f177e841121fe2365dd334e2b826c5c3e17a75f1c2c8bc2",
+      "name": "MS Office Basic Computer Literacy (Sim) (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+      "vector_index": 210
+    },
+    {
+      "assessment_id": "4097",
+      "document_checksum": "sha256:019a5623d90bfd62f5efdf29f45ad7c251e7c42154ed7b03b310f08ced3f195a",
+      "name": "MS PowerPoint (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/ms-powerpoint-new/",
+      "vector_index": 211
+    },
+    {
+      "assessment_id": "3994",
+      "document_checksum": "sha256:a4b9cc2c2228ef2b04e51823e2b4791fdc4a8f5d690bf418c9543f6b15c5ed9e",
+      "name": "MS Word (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+      "vector_index": 212
+    },
+    {
+      "assessment_id": "4098",
+      "document_checksum": "sha256:e423fbb4136dce7ffd10ad6066160052984c2edd1bc3133a64c69545df51bfb4",
+      "name": "MuleSoft Development (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/mulesoft-development-new/",
+      "vector_index": 213
+    },
+    {
+      "assessment_id": "615",
+      "document_checksum": "sha256:1482c1b46b3170d82605597df71a0e49e9aa769c6a9b0292930bb2a970d1efe2",
+      "name": "Multitasking Ability",
+      "test_types": [
+        "A",
+        "K",
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/multitasking-ability/",
+      "vector_index": 214
+    },
+    {
+      "assessment_id": "4100",
+      "document_checksum": "sha256:b7e3ddfa811486d99e5105f263c13e4ed9599e7a223eb66244f05c18b71f9e5c",
+      "name": "Networking and Implementation (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+      "vector_index": 215
+    },
+    {
+      "assessment_id": "3997",
+      "document_checksum": "sha256:9b1b8222289d3aa7e30817f91062559cb196161ba240ad97d41e52b34d6e4c21",
+      "name": "Node.js (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/node-js-new/",
+      "vector_index": 216
+    },
+    {
+      "assessment_id": "4041",
+      "document_checksum": "sha256:71eff18227ab263fa4e7e100d4e10fc14010a6cfb4cd5e3d66f208c3e3211df9",
+      "name": "Nursing (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/nursing-new/",
+      "vector_index": 217
+    },
+    {
+      "assessment_id": "720",
+      "document_checksum": "sha256:f23cfba0c0ae3688237499a220eb18d8724a27fb5dbca23d92a7bb6214e25c0e",
+      "name": "Occupational Personality Questionnaire OPQ32r",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+      "vector_index": 218
+    },
+    {
+      "assessment_id": "4116",
+      "document_checksum": "sha256:1451473f66f3cb07c29a5c9d58da3dac99044c4edcc07b354bce26e50409fcd5",
+      "name": "Operations Management (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/operations-management-new/",
+      "vector_index": 219
+    },
+    {
+      "assessment_id": "727",
+      "document_checksum": "sha256:5f85a4eba188b5e1c2e36b8ffcd81e719b9a67588b1ae5d3d49008636ad422a5",
+      "name": "OPQ Candidate Plus Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/",
+      "vector_index": 220
+    },
+    {
+      "assessment_id": "4298",
+      "document_checksum": "sha256:a9c42b8bd33cc94904ac2e9397404b1e5058dd7bd1eda0b19402ca7bd0e46339",
+      "name": "OPQ Candidate Report 2.0",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/",
+      "vector_index": 221
+    },
+    {
+      "assessment_id": "748",
+      "document_checksum": "sha256:10f7b4528583cc119e27c9440a44cac5a0c4db8f42cfd898bb670a96e0629237",
+      "name": "OPQ Emotional Intelligence Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
+      "vector_index": 222
+    },
+    {
+      "assessment_id": "749",
+      "document_checksum": "sha256:4f575f853bebd4de7f97d7fd408447dcd37ef8f347dc75e3214caa92a74a15d5",
+      "name": "OPQ Leadership Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+      "vector_index": 223
+    },
+    {
+      "assessment_id": "750",
+      "document_checksum": "sha256:6f34032a76ee8b6df86b0e9e085a206b771e8d0a4bc5ad112f71654dc899cb79",
+      "name": "OPQ Manager Plus Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/",
+      "vector_index": 224
+    },
+    {
+      "assessment_id": "4300",
+      "document_checksum": "sha256:55d5bcf89d749d5778f5f40bf3e747d409512b65c367cd153b2bc9d8f41039c3",
+      "name": "OPQ Manager Plus Report 2.0",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0/",
+      "vector_index": 225
+    },
+    {
+      "assessment_id": "752",
+      "document_checksum": "sha256:67549af937c83f6b9898fcd65d2d54eedaec47ae020e045e3d2af66363d2df95",
+      "name": "OPQ Maximising your Learning Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/",
+      "vector_index": 226
+    },
+    {
+      "assessment_id": "754",
+      "document_checksum": "sha256:6d1aabc39cd20dad4604f64a17fc74370f98a670e6540690db50cd48a7272c22",
+      "name": "OPQ MQ Sales Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+      "vector_index": 227
+    },
+    {
+      "assessment_id": "753",
+      "document_checksum": "sha256:12a895749fb5c3db6e13937b64f5090711dd5d0401c4f9709fa0fec0de8482fc",
+      "name": "OPQ Premium Plus Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/",
+      "vector_index": 228
+    },
+    {
+      "assessment_id": "4307",
+      "document_checksum": "sha256:cc5c946d437f66d5008fd3e7c405f9d621bf49418475b82acb4dc40e3e6445d7",
+      "name": "OPQ Premium Plus Report 2.0",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/",
+      "vector_index": 229
+    },
+    {
+      "assessment_id": "1050",
+      "document_checksum": "sha256:689fe5b0a76a413ee17cd67087f00aa613c85278f0e4f29b9f592ddbbc55bbb0",
+      "name": "OPQ Profile Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-profile-report/",
+      "vector_index": 230
+    },
+    {
+      "assessment_id": "1060",
+      "document_checksum": "sha256:42d54d1527a282fdf6b3095e1b5fa6799e107418eb73fc33adb6c3241eddcc12",
+      "name": "OPQ Team Impact Group Development Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-group-development-report/",
+      "vector_index": 231
+    },
+    {
+      "assessment_id": "1059",
+      "document_checksum": "sha256:5a5b31e20f98c5b72e61632c05e226d35d38f6607ee79b05a86defe5506cc44d",
+      "name": "OPQ Team Impact Individual Development Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-individual-development-report/",
+      "vector_index": 232
+    },
+    {
+      "assessment_id": "1058",
+      "document_checksum": "sha256:4c05fe4c6d452cb8d2bc7245ecb198b710a05a133d3f0db9c6b9f49de2bfa337",
+      "name": "OPQ Team Impact Selection Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-selection-report/",
+      "vector_index": 233
+    },
+    {
+      "assessment_id": "1061",
+      "document_checksum": "sha256:9533737d48ff8b5652e7020b75087ba2733a77e9648e7c9955a74dc369a23831",
+      "name": "OPQ Team Types & Leadership Styles Profile",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+      "vector_index": 234
+    },
+    {
+      "assessment_id": "756",
+      "document_checksum": "sha256:cd1b12b38bb516e9c8cda8310b02aba667ef3bd340254f30e0b59af8ae758b94",
+      "name": "OPQ Team Types and Leadership Styles Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+      "vector_index": 235
+    },
+    {
+      "assessment_id": "757",
+      "document_checksum": "sha256:9cdd0fbb1e1a917233c53670648423b4e4bb739435b909964636a8947e4cc292",
+      "name": "OPQ UCF Development Action Planner Report 1.0",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+      "vector_index": 236
+    },
+    {
+      "assessment_id": "4286",
+      "document_checksum": "sha256:d0eb632861c127af1ab9494bc2a036e070f6f81431918f6aba23922004faa8c6",
+      "name": "OPQ UCF Development Action Planner Report 2.0",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+      "vector_index": 237
+    },
+    {
+      "assessment_id": "758",
+      "document_checksum": "sha256:96d2a09dfbbfe7cbd25b3f99f8f6690690c44b40d742ad5b3a84eb193734e175",
+      "name": "OPQ Universal Competency Report 1.0",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report/",
+      "vector_index": 238
+    },
+    {
+      "assessment_id": "4289",
+      "document_checksum": "sha256:72ec946f96cbc7c585bf88bcae64ba14c6d19340bea3a5b87a87e709bca12315",
+      "name": "OPQ Universal Competency Report 2.0",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+      "vector_index": 239
+    },
+    {
+      "assessment_id": "1067",
+      "document_checksum": "sha256:f2e4dc62a607b243d180fadc1bcac5f4421dce48b743ee7059a98da1502cba76",
+      "name": "OPQ User and Managers Report",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-user-and-managers-report/",
+      "vector_index": 240
+    },
+    {
+      "assessment_id": "759",
+      "document_checksum": "sha256:2eeac55f185f96c61ae92b56888f04fbf05c433afd7c6ecf885417426b6cb3e4",
+      "name": "OPQ User Report",
+      "test_types": [
+        "P",
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/opq-user-report/",
+      "vector_index": 241
+    },
+    {
+      "assessment_id": "4106",
+      "document_checksum": "sha256:f96d16ad0d5d92f48abf3df6cae82e60d07810501ed6a3bd079160a8b5cfba94",
+      "name": "Oracle DBA (Advanced Level) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-advanced-level-new/",
+      "vector_index": 242
+    },
+    {
+      "assessment_id": "4105",
+      "document_checksum": "sha256:6d6894c105fbcfa2068b2e5ed528edd714c0600dd099d237fef28c1a5699a1b0",
+      "name": "Oracle DBA (Entry Level) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-entry-level-new/",
+      "vector_index": 243
+    },
+    {
+      "assessment_id": "4145",
+      "document_checksum": "sha256:3ecccfcd8e331b2b8e14db5d5c48780350e25b01762972a5a1358c53798e270e",
+      "name": "Oracle PL/SQL (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/oracle-plsql-new/",
+      "vector_index": 244
+    },
+    {
+      "assessment_id": "4156",
+      "document_checksum": "sha256:f735aaf09bdfca1a9dfc60aa6e2ea6d1286140e800c30247939f57525a1bb795",
+      "name": "Oracle WebLogic Server (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/oracle-weblogic-server-new/",
+      "vector_index": 245
+    },
+    {
+      "assessment_id": "4154",
+      "document_checksum": "sha256:0eb4823a96700c308be52e70a08b2794dafba2eb17a3c37526ca98aca1bd6f5b",
+      "name": "Organic Chemistry (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/organic-chemistry-new/",
+      "vector_index": 246
+    },
+    {
+      "assessment_id": "4107",
+      "document_checksum": "sha256:29f8ccbf883f90f3817c8951ffde29caf706c460a1ee912bd6b00f5f25702c0e",
+      "name": "Paint Technology (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/paint-technology-new/",
+      "vector_index": 247
+    },
+    {
+      "assessment_id": "3998",
+      "document_checksum": "sha256:332545d8a9cf26251e048e307d0e0bde85c06ef8ae0484dbd61b70e7cc849f1f",
+      "name": "Pediatrics (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/pediatrics-new/",
+      "vector_index": 248
+    },
+    {
+      "assessment_id": "4108",
+      "document_checksum": "sha256:befcfd48a3afec5f01dc86cef05fd26160f6f7b4b8626775ecc396a2a0d079d9",
+      "name": "Pega Development (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/pega-development-new/",
+      "vector_index": 249
+    },
+    {
+      "assessment_id": "4109",
+      "document_checksum": "sha256:7615179b944bb9057d6e3d4670c67fd4892fcf0e6bd1452e12244bbdf292c3a5",
+      "name": "Perl (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/perl-new/",
+      "vector_index": 250
+    },
+    {
+      "assessment_id": "4070",
+      "document_checksum": "sha256:8b275aaba09da1d25cdcb3ba58d01b7bb1f3a57846061be7f2f86583484df476",
+      "name": "Petrochemical Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/petrochemical-engineering-new/",
+      "vector_index": 251
+    },
+    {
+      "assessment_id": "4110",
+      "document_checksum": "sha256:02f9195ab6629bab0586edfeed8679f1e62042d11bc698257d58b11af2dcf9e0",
+      "name": "Petroleum Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/petroleum-engineering-new/",
+      "vector_index": 252
+    },
+    {
+      "assessment_id": "4088",
+      "document_checksum": "sha256:1d8a04f7f23fa5cfce697f5eea85c45551eaf922d5d2328280db0cdfdabca399",
+      "name": "Pharmaceutical Analysis (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-analysis-new/",
+      "vector_index": 253
+    },
+    {
+      "assessment_id": "4114",
+      "document_checksum": "sha256:cba8353abeb46c2aefefdcf2e53ad55ba7907f1102e78549e77078ac8f31b032",
+      "name": "Pharmaceutical Chemistry (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-chemistry-new/",
+      "vector_index": 254
+    },
+    {
+      "assessment_id": "4061",
+      "document_checksum": "sha256:d756f5a6c75807496230bae1521ef8f60452e2636eaab762c6577c89438d603a",
+      "name": "Pharmaceutical Science (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-science-new/",
+      "vector_index": 255
+    },
+    {
+      "assessment_id": "4111",
+      "document_checksum": "sha256:b86510194418b42f7aaa3180a663731d3ec7cea3b2c76ec30122557bb09af445",
+      "name": "Pharmaceutics (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/pharmaceutics-new/",
+      "vector_index": 256
+    },
+    {
+      "assessment_id": "4112",
+      "document_checksum": "sha256:8a14e00ea3c3249f000fbdd8be37a8cb3bd093897b135494805d1e95c740dd81",
+      "name": "Pharmacology (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/pharmacology-new/",
+      "vector_index": 257
+    },
+    {
+      "assessment_id": "4103",
+      "document_checksum": "sha256:802d8a500bc24929acde5081563f560d09959ff3efc0556c6d61a2d7ba9a96df",
+      "name": "PHP (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/php-new/",
+      "vector_index": 258
+    },
+    {
+      "assessment_id": "3746",
+      "document_checksum": "sha256:aaa1287b768d1e74bb85686f1770e871c548fb5399b0c289baa0e3bdef1c1126",
+      "name": "PJM Development Report",
+      "test_types": [
+        "C",
+        "A",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/pjm-development-report/",
+      "vector_index": 259
+    },
+    {
+      "assessment_id": "3484",
+      "document_checksum": "sha256:7b59e6f94229219338be4cf926be4858dd89efd2dca55f1f35ae8bb70cf9efa9",
+      "name": "PJM Selection Report",
+      "test_types": [
+        "A",
+        "C",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/pjm-selection-report/",
+      "vector_index": 260
+    },
+    {
+      "assessment_id": "4042",
+      "document_checksum": "sha256:2c48e133551ad65b78ece439d40c32a0911eeb4c134737aa5bfbfab989a765bf",
+      "name": "Polymer Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/polymer-engineering-new/",
+      "vector_index": 261
+    },
+    {
+      "assessment_id": "4118",
+      "document_checksum": "sha256:0475562115e29636e8ad6893b25310d02ffe10d32f67af018e6511b8cdd63ccc",
+      "name": "Power Electronics and Drives (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/power-electronics-and-drives-new/",
+      "vector_index": 262
+    },
+    {
+      "assessment_id": "4117",
+      "document_checksum": "sha256:e45dd1cf952764b690a54ac1e37aaa89904ba59d8c1302d8b73d3c99e76bf56b",
+      "name": "Power System Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/power-system-engineering-new/",
+      "vector_index": 263
+    },
+    {
+      "assessment_id": "4095",
+      "document_checksum": "sha256:72eeaa7bbdda24773dff5edc39f5e8e8dc3cecdd1357993a7bc94a1e7d4b5cdd",
+      "name": "Prism (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/prism-new/",
+      "vector_index": 264
+    },
+    {
+      "assessment_id": "4121",
+      "document_checksum": "sha256:797b3325615100a9bfe76fda336f0f9360bb2f7798380a6ccd25db6dd1d5be4a",
+      "name": "Production and Industrial Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/production-and-industrial-engineering-new/",
+      "vector_index": 265
+    },
+    {
+      "assessment_id": "4120",
+      "document_checksum": "sha256:bf8473d96587041ea707fb95c16558d72c56e7579dca5a4eded99e0abd8f08fb",
+      "name": "Production Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/production-engineering-new/",
+      "vector_index": 266
+    },
+    {
+      "assessment_id": "219",
+      "document_checksum": "sha256:413831596abe1c3f32755110b1007b3cb67fccf408e2786d1193ebce1335440e",
+      "name": "Programming Concepts",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/programming-concepts/",
+      "vector_index": 267
+    },
+    {
+      "assessment_id": "3769",
+      "document_checksum": "sha256:b0f9f2a75b7fc5ef03f877050893f688b4e8b25f66a7c953aadd8c138c4a52c5",
+      "name": "Project Management (2013)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/project-management-2013/",
+      "vector_index": 268
+    },
+    {
+      "assessment_id": "393",
+      "document_checksum": "sha256:973008ae375b9f613ed02efbdcb6d58d0cc81657c2aa52ff0840e2388703174b",
+      "name": "Proofreading v1",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/proofreading-v1/",
+      "vector_index": 269
+    },
+    {
+      "assessment_id": "4123",
+      "document_checksum": "sha256:e4554294c9dcd76b6ccf698cb6fcf82fd68acc543109c1c0f9851b504d6b2586",
+      "name": "Python (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/python-new/",
+      "vector_index": 270
+    },
+    {
+      "assessment_id": "4124",
+      "document_checksum": "sha256:a69ff782d8bbfc59ea2789281a9a99f7cec2d4f1a7198172e6092774c9d4b327",
+      "name": "R Programming (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/r-programming-new/",
+      "vector_index": 271
+    },
+    {
+      "assessment_id": "4177",
+      "document_checksum": "sha256:2783d286d755d0889fe0a9fda5170c2803eec7db343a7df3fe04d4862fb6ba82",
+      "name": "ReactJS (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/reactjs-new/",
+      "vector_index": 272
+    },
+    {
+      "assessment_id": "3472",
+      "document_checksum": "sha256:0484906af181286a832404d073674a23aa74c5ae43dcd465891db87138f2c66a",
+      "name": "Reading Comprehension - English v1",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-english-v1/",
+      "vector_index": 273
+    },
+    {
+      "assessment_id": "543",
+      "document_checksum": "sha256:a920d5b17c39568b9451543c214a0bba844e8d4978301568ed2360f7b7178e21",
+      "name": "Reading Comprehension - Spanish v1",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-spanish-v1/",
+      "vector_index": 274
+    },
+    {
+      "assessment_id": "3942",
+      "document_checksum": "sha256:8970bcd606e4151d2afc4d516c78f3e3e28c2dd5458f454b00ad324f4d777b18",
+      "name": "Reading Comprehension v2",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-v2/",
+      "vector_index": 275
+    },
+    {
+      "assessment_id": "4204",
+      "document_checksum": "sha256:1320075584962bc28239f8cbac71ead555c2edb3c42087b074f4ee7d2c3178a4",
+      "name": "RemoteWorkQ",
+      "test_types": [
+        "C"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/remoteworkq/",
+      "vector_index": 276
+    },
+    {
+      "assessment_id": "4202",
+      "document_checksum": "sha256:dfd992224a372f546ca68c1d05533d991138a73390782af3e4aef00101957e80",
+      "name": "RemoteWorkQ Manager Report",
+      "test_types": [
+        "C"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-manager-report/",
+      "vector_index": 277
+    },
+    {
+      "assessment_id": "4203",
+      "document_checksum": "sha256:be557cbfc6a472efcb062171dc41b4d96248ab886dbd4c9e815524e820bd1726",
+      "name": "RemoteWorkQ Participant Report",
+      "test_types": [
+        "C"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-participant-report/",
+      "vector_index": 278
+    },
+    {
+      "assessment_id": "4126",
+      "document_checksum": "sha256:363d2c76c900b2ae9357fcdad54047a4388d51e0cc7876599925a360b7ec4bd3",
+      "name": "RESTful Web Services (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+      "vector_index": 279
+    },
+    {
+      "assessment_id": "697",
+      "document_checksum": "sha256:0d284dcd54d64a2ba8b65a08bfbf594a10bf3218ad40bf561f24a6d9fcaf9133",
+      "name": "Retail Sales and Service Simulation",
+      "test_types": [
+        "B",
+        "K",
+        "S",
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/",
+      "vector_index": 280
+    },
+    {
+      "assessment_id": "395",
+      "document_checksum": "sha256:b55372a12d277b72bec571ae5a88067105a9ad91311fb51272222f8c376483ac",
+      "name": "Reviewing Forms - US (R1)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/reviewing-forms-us-r1/",
+      "vector_index": 281
+    },
+    {
+      "assessment_id": "4129",
+      "document_checksum": "sha256:04a7cbacde2a781f533a465b704d0d31ccbbf352dbffa89a346e14323d355279",
+      "name": "Ruby (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/ruby-new/",
+      "vector_index": 282
+    },
+    {
+      "assessment_id": "4128",
+      "document_checksum": "sha256:451bf6de104d64e42e590350c951515044723803388d48a1a52d9d90f4f56fc6",
+      "name": "Ruby on Rails (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/ruby-on-rails-new/",
+      "vector_index": 283
+    },
+    {
+      "assessment_id": "3932",
+      "document_checksum": "sha256:5072134fd582faefdd494c319eb41660d42bf78bd91263f4d8ee2497eb51e297",
+      "name": "Sales & Service Phone Simulation",
+      "test_types": [
+        "S",
+        "B"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation/",
+      "vector_index": 284
+    },
+    {
+      "assessment_id": "3930",
+      "document_checksum": "sha256:d4cb73c7c1fd9294319dded6a24e2186ced63e80d4bd7a92981fac5a83fb16f7",
+      "name": "Sales & Service Phone Solution",
+      "test_types": [
+        "B",
+        "P",
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution/",
+      "vector_index": 285
+    },
+    {
+      "assessment_id": "726",
+      "document_checksum": "sha256:aa03427e6531e327f051f505bb6a31d9f8cb643c430504631af9735a32cd61fd",
+      "name": "Sales Interview Guide",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sales-interview-guide/",
+      "vector_index": 286
+    },
+    {
+      "assessment_id": "725",
+      "document_checksum": "sha256:e9fd6e90c3b9b7ef81a30f518bf4916cc6610a32b5e3cbbb689341db091fca5a",
+      "name": "Sales Profiler Cards",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sales-profiler-cards/",
+      "vector_index": 287
+    },
+    {
+      "assessment_id": "4230",
+      "document_checksum": "sha256:28e833c484111c5cadc756e8c14fc4fd2b06cdbf6727cf36c9dc2859e719c64f",
+      "name": "Sales Transformation 1.0 - Individual Contributor",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+      "vector_index": 288
+    },
+    {
+      "assessment_id": "4283",
+      "document_checksum": "sha256:d24f804c058c755f8a989664b25ee905fd56e6ac7a75e7399f5b4f4ab3bc4cc4",
+      "name": "Sales Transformation 2.0 - Individual Contributor",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+      "vector_index": 289
+    },
+    {
+      "assessment_id": "4233",
+      "document_checksum": "sha256:5ac562cdbc2f511f90c819c05dd85d1c99802807e953ff8dc21c13456713d39b",
+      "name": "Sales Transformation Report 1.0 - Sales Manager",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager/",
+      "vector_index": 290
+    },
+    {
+      "assessment_id": "4288",
+      "document_checksum": "sha256:5d179e97dc7eca8073183e9c00a138a415ca42cda6a3636939677f93dd2198c0",
+      "name": "Sales Transformation Report 2.0 - Sales Manager",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
+      "vector_index": 291
+    },
+    {
+      "assessment_id": "4130",
+      "document_checksum": "sha256:ae1fd78ddc171cf9ca9b88d94ba601336ea579bd14af5467c2a253b47b3901b9",
+      "name": "Salesforce Development (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/salesforce-development-new/",
+      "vector_index": 292
+    },
+    {
+      "assessment_id": "4131",
+      "document_checksum": "sha256:b5358fb66b945d4db3e68f6b4985fd912aac436586cb4616797e834b1f577157",
+      "name": "SAP ABAP (Advanced Level) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sap-abap-advanced-level-new/",
+      "vector_index": 293
+    },
+    {
+      "assessment_id": "4132",
+      "document_checksum": "sha256:f46269ea8a6af745da28df3e4f455e66e80fd93d64d5f8eacfe035b917db4b47",
+      "name": "SAP ABAP (Intermediate Level) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sap-abap-intermediate-level-new/",
+      "vector_index": 294
+    },
+    {
+      "assessment_id": "4133",
+      "document_checksum": "sha256:25c841d2bc58d13d69ed70ba1592c9605ee1bceb7f721bbcd44ed172bc1268cb",
+      "name": "SAP Basis (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sap-basis-new/",
+      "vector_index": 295
+    },
+    {
+      "assessment_id": "4136",
+      "document_checksum": "sha256:348945c698676e9a87eb6b776cc801c96d99356bb1311a8969e7256eaf40357c",
+      "name": "SAP Business Objects WebI (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new/",
+      "vector_index": 296
+    },
+    {
+      "assessment_id": "4134",
+      "document_checksum": "sha256:be0a0ed59aef4c60aea3e30fa1306141ee54ff7c3bfd4a84dd9a519a3fde76ab",
+      "name": "SAP BW (Business Warehouse) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sap-bw-business-warehouse-new/",
+      "vector_index": 297
+    },
+    {
+      "assessment_id": "4135",
+      "document_checksum": "sha256:dbfe384f90e4ae3e16401c76717fe0d8d636533fabc7cfd86ccd4da731e42ecf",
+      "name": "SAP HCM (Human Capital Management) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sap-hcm-human-capital-management-new/",
+      "vector_index": 298
+    },
+    {
+      "assessment_id": "4082",
+      "document_checksum": "sha256:138d7575529a995cc5e9ca3f65b8d1cf63a9c29f49beb2b5ab2043fc64ffd5f0",
+      "name": "SAP Hybris (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sap-hybris-new/",
+      "vector_index": 299
+    },
+    {
+      "assessment_id": "4137",
+      "document_checksum": "sha256:f14ecfac25c9267d2ea78b08f4633d5005d9ca405012a7acd25e873755ec4373",
+      "name": "SAP Materials Management (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sap-materials-management-new/",
+      "vector_index": 300
+    },
+    {
+      "assessment_id": "4064",
+      "document_checksum": "sha256:d576caa7cf86e2cbe94eb144a96b633f3bf825c3980006fb9bbaa2b163505a29",
+      "name": "SAP SD (Sales and Distribution) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
+      "vector_index": 301
+    },
+    {
+      "assessment_id": "4171",
+      "document_checksum": "sha256:11556e5886124abceb4e46259646538d57121d81c0f4b0433b53e09929f4d339",
+      "name": "Search Engine Optimization (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/search-engine-optimization-new/",
+      "vector_index": 302
+    },
+    {
+      "assessment_id": "4138",
+      "document_checksum": "sha256:b15804b106cfd857ee3faab1d47a1feb725884fb3342918e2f6a55b997eba144",
+      "name": "Selenium (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/selenium-new/",
+      "vector_index": 303
+    },
+    {
+      "assessment_id": "4140",
+      "document_checksum": "sha256:9e25292e3bdd2a682c355f5f725f81efb876d75e69cd030335fdbb177530cf6f",
+      "name": "Shell Scripting (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/shell-scripting-new/",
+      "vector_index": 304
+    },
+    {
+      "assessment_id": "3968",
+      "document_checksum": "sha256:605c3dd0bae6df74424ae5336fae52524d737964556eff7a535b7ada6fd0f32d",
+      "name": "SHL Verify Interactive - Inductive Reasoning",
+      "test_types": [
+        "A",
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+      "vector_index": 305
+    },
+    {
+      "assessment_id": "3971",
+      "document_checksum": "sha256:c9a947a7a6feecd6307094126de00ce65354f46e37139c62de596e5abc6ea0ee",
+      "name": "SHL Verify Interactive G+",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+      "vector_index": 306
+    },
+    {
+      "assessment_id": "3972",
+      "document_checksum": "sha256:c9132875cbd9250dda85d559203201d00a7eb310809b6953a6e8a45ef8c4b483",
+      "name": "SHL Verify Interactive Numerical Calculation",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+      "vector_index": 307
+    },
+    {
+      "assessment_id": "3947",
+      "document_checksum": "sha256:6b5ddeb5d26bbd1a4879939c5f7ff6d721e0db47c83c5e0a48bfab00f2b10028",
+      "name": "SHL Verify Interactive – Deductive Reasoning",
+      "test_types": [
+        "A",
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+      "vector_index": 308
+    },
+    {
+      "assessment_id": "3946",
+      "document_checksum": "sha256:828d42c1dfaf9c014f4c1877b6b6d4fef853b7bfc087f08c699589f2f9233cac",
+      "name": "SHL Verify Interactive – Numerical Reasoning",
+      "test_types": [
+        "A",
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+      "vector_index": 309
+    },
+    {
+      "assessment_id": "4141",
+      "document_checksum": "sha256:3668623f90179bd52d695e0b08d1d701d048df063ae6e2d771309e464bdda7d5",
+      "name": "Siebel Development (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/siebel-development-new/",
+      "vector_index": 310
+    },
+    {
+      "assessment_id": "4209",
+      "document_checksum": "sha256:45f1842b28da3d9a75367a508768dfde2d577dc1e8cfa193cc26355f49431456",
+      "name": "Smart Interview Live",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live/",
+      "vector_index": 311
+    },
+    {
+      "assessment_id": "4218",
+      "document_checksum": "sha256:bd92593b15cd9467af2c005741ba48dfc77ece9040c2d00e04872839598f9e03",
+      "name": "Smart Interview Live Coding",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+      "vector_index": 312
+    },
+    {
+      "assessment_id": "4205",
+      "document_checksum": "sha256:d2036d19393b7369c43e6bd57830ae4279aee06e5024f8a3271a72f452202ee7",
+      "name": "Smart Interview On Demand",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/smart-interview-on-demand/",
+      "vector_index": 313
+    },
+    {
+      "assessment_id": "4014",
+      "document_checksum": "sha256:60adf2ddcf6db9b77297c4504142bfc183cdf7cc9bbc969a0ecfb334e8264d99",
+      "name": "Social Media (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/social-media-new/",
+      "vector_index": 314
+    },
+    {
+      "assessment_id": "116",
+      "document_checksum": "sha256:a640b6086eff3dd58200abdf60ff8089e6c1fb7cdeb9f2441d871d7f4d91dc07",
+      "name": "Software Business Analysis",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/software-business-analysis/",
+      "vector_index": 315
+    },
+    {
+      "assessment_id": "4142",
+      "document_checksum": "sha256:c899a2c43ec392715fd75870a48e1780a8f2081b088a0f1e0ee8331568f4cfb6",
+      "name": "SonarQube (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sonarqube-new/",
+      "vector_index": 316
+    },
+    {
+      "assessment_id": "4051",
+      "document_checksum": "sha256:4b1c190802056cc9931dd65356eacba6604c726e8ebb17cf43ca52b99bcac9fc",
+      "name": "Spelling (U.S.) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/spelling-u-s-new/",
+      "vector_index": 317
+    },
+    {
+      "assessment_id": "40",
+      "document_checksum": "sha256:d97973dba885b815982f01dd5f833379aa37cd6102ba73ee6096322241820e4d",
+      "name": "Split Screen Typing Test - Form 1",
+      "test_types": [
+        "A",
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/split-screen-typing-test-form-1/",
+      "vector_index": 318
+    },
+    {
+      "assessment_id": "4143",
+      "document_checksum": "sha256:e1bff5766178e563d49aaf084f37e9835b7244445011a4df11ed4839231067e4",
+      "name": "Spring (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+      "vector_index": 319
+    },
+    {
+      "assessment_id": "4144",
+      "document_checksum": "sha256:75cca9a7314185d3bffc524cabe2be8460c247824e475f9ce51d40ab68a7c6c9",
+      "name": "SQL (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+      "vector_index": 320
+    },
+    {
+      "assessment_id": "4035",
+      "document_checksum": "sha256:79edc2503c5af9afd6c5ba7bbf86283d2d3113b4a4f8395ebf13d9378880f484",
+      "name": "SQL Server (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sql-server-new/",
+      "vector_index": 321
+    },
+    {
+      "assessment_id": "4282",
+      "document_checksum": "sha256:c68b588805f27da6e3addb074d0c5c706eb110b82ddff3aac963d5c0060faf25",
+      "name": "SQL Server Analysis Services (SSAS) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+      "vector_index": 322
+    },
+    {
+      "assessment_id": "4146",
+      "document_checksum": "sha256:a0f8ab8f0dcbda55255715f7ed5f16a20f6901d02986316704cc576c54f94fe4",
+      "name": "SQL Server Integration Services (SSIS) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+      "vector_index": 323
+    },
+    {
+      "assessment_id": "4147",
+      "document_checksum": "sha256:eb0386a5bf205038f08ec8a72b50a6da758e6747509f7e328f15efaa36160978",
+      "name": "SQL Server Reporting Services (SSRS) (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+      "vector_index": 324
+    },
+    {
+      "assessment_id": "3996",
+      "document_checksum": "sha256:8cf2f0feccf7978c954b0655b863929725bf839dcf40b1a317f434113183613b",
+      "name": "Statistical Analysis System (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/statistical-analysis-system-new/",
+      "vector_index": 325
+    },
+    {
+      "assessment_id": "4151",
+      "document_checksum": "sha256:a623f8d2bfcc8487750a1988c440d9d2d566fc46095ad2737de066798881eaff",
+      "name": "Struts (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/struts-new/",
+      "vector_index": 326
+    },
+    {
+      "assessment_id": "4216",
+      "document_checksum": "sha256:e86a8cc72aa3f1fbace097b10c04504efe1ff9b876e1d3b439eb8485142f7a1d",
+      "name": "SVAR - Spoken English (AUS)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-aus/",
+      "vector_index": 327
+    },
+    {
+      "assessment_id": "3986",
+      "document_checksum": "sha256:69ef693b6ea8e6743aca5b292c664b14096b168482c64234276fcae90dc91a13",
+      "name": "SVAR - Spoken English (Indian Accent) (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+      "vector_index": 328
+    },
+    {
+      "assessment_id": "4217",
+      "document_checksum": "sha256:ea9c177833df6fed9ed3cd715734324cc8624229d2d59456f634a93a375ad0fd",
+      "name": "SVAR - Spoken English (U.K.)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-u-k/",
+      "vector_index": 329
+    },
+    {
+      "assessment_id": "3987",
+      "document_checksum": "sha256:ededd59d53bb4fa1f46367e71a46ffc78b40658c4a7761b5f3606841abcf0dd6",
+      "name": "SVAR - Spoken English (US) (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+      "vector_index": 330
+    },
+    {
+      "assessment_id": "4197",
+      "document_checksum": "sha256:04cf394c66a492d02644e3957528acbcf1586c9694bdbe4c5651cc976619d858",
+      "name": "SVAR - Spoken French (Canadian) (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-canadian-new/",
+      "vector_index": 331
+    },
+    {
+      "assessment_id": "4198",
+      "document_checksum": "sha256:bded4d4f1142201fb0b6a7259b92505a78afb68ae34ea1e780d6208ed00e430b",
+      "name": "SVAR - Spoken French (European) (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-european-new/",
+      "vector_index": 332
+    },
+    {
+      "assessment_id": "4199",
+      "document_checksum": "sha256:f6a18d5c84df6b901855c53753b30267d56aaf4adcd552db3d896ad89efeb70d",
+      "name": "SVAR - Spoken Spanish (Castilian) (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+      "vector_index": 333
+    },
+    {
+      "assessment_id": "4200",
+      "document_checksum": "sha256:db91f24d5ee3cae49412dda37de6a56d79f44870481e03cd281504a9df69601b",
+      "name": "SVAR - Spoken Spanish (North American) (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+      "vector_index": 334
+    },
+    {
+      "assessment_id": "4049",
+      "document_checksum": "sha256:e05f865473d95d30d26e7cf7e4c01db0191ef28b3c9708f26d39c4a5c829b6fb",
+      "name": "Swing (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/swing-new/",
+      "vector_index": 335
+    },
+    {
+      "assessment_id": "4079",
+      "document_checksum": "sha256:9a93c12f090ce1936d7c4d6c117613263f60f798c48e1b377ade9dfa6b6233a4",
+      "name": "Tableau (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/tableau-new/",
+      "vector_index": 336
+    },
+    {
+      "assessment_id": "4020",
+      "document_checksum": "sha256:8c8d8ac730185acf5d202205a3fd5f280182ed974ea3ac7be531087a55045a49",
+      "name": "Telecommunications Engineering (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/telecommunications-engineering-new/",
+      "vector_index": 337
+    },
+    {
+      "assessment_id": "4167",
+      "document_checksum": "sha256:28a525819dad1444fdf6f7075eb5c7b7e3a7b627a9e895156a73d168afff2481",
+      "name": "Teradata Development (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
+      "vector_index": 338
+    },
+    {
+      "assessment_id": "251",
+      "document_checksum": "sha256:400d1ab4c22db394f23d1e3242c92cad01dc8b65b31ce992b48901629adf0151",
+      "name": "Time Management (U.S.)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
+      "vector_index": 339
+    },
+    {
+      "assessment_id": "336",
+      "document_checksum": "sha256:36864efce32bb5f071f22df4625b96930906eec439c99797afd8f6da056af6de",
+      "name": "Training Development",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/training-development/",
+      "vector_index": 340
+    },
+    {
+      "assessment_id": "4201",
+      "document_checksum": "sha256:ad1b87b0f8b0b9916b46c0ddb62b72eb2bb33ee0f31d45fd229ff236001d801c",
+      "name": "Typing (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/typing-new/",
+      "vector_index": 341
+    },
+    {
+      "assessment_id": "4175",
+      "document_checksum": "sha256:3032ed4c919a91578a38e215660af0b7ae0e32ce072e11f89c9a712ebbde6120",
+      "name": "UiPath RPA Development (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
+      "vector_index": 342
+    },
+    {
+      "assessment_id": "735",
+      "document_checksum": "sha256:eb69c57fdd52dcebf9b5aae21ecbcbc6e4e4843892448e793f3d94a97ca3173d",
+      "name": "Universal Competency Framework Interview Guide",
+      "test_types": [
+        "C",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
+      "vector_index": 343
+    },
+    {
+      "assessment_id": "734",
+      "document_checksum": "sha256:d4b8dcba4c3fffac9755835d63532169f20eb3429d9cf3100a9acb4788a10268",
+      "name": "Universal Competency Framework Job profiling guide",
+      "test_types": [
+        "C",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+      "vector_index": 344
+    },
+    {
+      "assessment_id": "733",
+      "document_checksum": "sha256:561c7e217e7a1d954bdb04c927ef3d58b9daa49334d41030b049a0f304014db3",
+      "name": "Universal Competency Framework Profiler Cards (44)",
+      "test_types": [
+        "C",
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+      "vector_index": 345
+    },
+    {
+      "assessment_id": "4172",
+      "document_checksum": "sha256:4b67b29ab2b6926bfa65b2d69f2695d95389b2cc3e60baf912f724c20333fe38",
+      "name": "UNIX (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/unix-new/",
+      "vector_index": 346
+    },
+    {
+      "assessment_id": "4173",
+      "document_checksum": "sha256:03019513f20295558ba2d5748fea179d9c1a9a9c7a7b45fa6ec5e7ccfa4fb482",
+      "name": "VB.NET (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
+      "vector_index": 347
+    },
+    {
+      "assessment_id": "3733",
+      "document_checksum": "sha256:9e87c12f740f9958513bce0ee55f7b75e6b69c2c999eae4a1a6e43fe3658512f",
+      "name": "Verify - Deductive Reasoning",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
+      "vector_index": 348
+    },
+    {
+      "assessment_id": "3941",
+      "document_checksum": "sha256:cde4a6bb5e086b8fa12437f0719ec45d179b4a2814f26e9c0d7a72634068a9a8",
+      "name": "Verify - Following Instructions",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
+      "vector_index": 349
+    },
+    {
+      "assessment_id": "3908",
+      "document_checksum": "sha256:931002bad0636b8898bd9572704f0ec16b48332aeda7b17121464c6efae34e58",
+      "name": "Verify - G+",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/verify-g/",
+      "vector_index": 350
+    },
+    {
+      "assessment_id": "3734",
+      "document_checksum": "sha256:a48c43ffe7c4d31a1db94714073dc22fe925d9cd0211b86c6aba90c5e3a0acb3",
+      "name": "Verify - General Ability Screen",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
+      "vector_index": 351
+    },
+    {
+      "assessment_id": "3836",
+      "document_checksum": "sha256:2cc2d2dc4fd33459a6be3f0f793e6ea79a145c1c5ec892adb8ab798ab97ceeef",
+      "name": "Verify - Inductive Reasoning (2014)",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
+      "vector_index": 352
+    },
+    {
+      "assessment_id": "3745",
+      "document_checksum": "sha256:1c5256439b6eea9a8c05e5c0f3fd9a5d1c6ec2de60103c7342d3a19da256d430",
+      "name": "Verify - Numerical Ability",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+      "vector_index": 353
+    },
+    {
+      "assessment_id": "3768",
+      "document_checksum": "sha256:849def98a493081c5b83d7c4826af102b3add2e2b61ba8470f3445fef64a80b0",
+      "name": "Verify - Technical Checking - Next Generation",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
+      "vector_index": 354
+    },
+    {
+      "assessment_id": "3906",
+      "document_checksum": "sha256:a86ec5934791dd6717e9e14f642391780b3c5f2aacbe580b2097a0020a4b755d",
+      "name": "Verify - Verbal Ability - Next Generation",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+      "vector_index": 355
+    },
+    {
+      "assessment_id": "3940",
+      "document_checksum": "sha256:ebaa6869b6d99388d9d8fc61c61ce5d460287755c6e3364e01d6018861a2e2fc",
+      "name": "Verify - Working with Information",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
+      "vector_index": 356
+    },
+    {
+      "assessment_id": "3945",
+      "document_checksum": "sha256:e39a3f97c0b779be4cd4dc997b2bb7e077d5070b7ee59cadcf5fe2afabaac0cb",
+      "name": "Verify G+ - Ability Test Report",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
+      "vector_index": 357
+    },
+    {
+      "assessment_id": "3970",
+      "document_checksum": "sha256:85cbffdc881ded6ddba00ad9519a53c30c69d3e5afd29ac8b52baf643932f3c7",
+      "name": "Verify G+ - Candidate Report",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
+      "vector_index": 358
+    },
+    {
+      "assessment_id": "3969",
+      "document_checksum": "sha256:55973ed5874b5556e5d21f3524007785c9bfb9726d40c8b0a7ce935e01e6ef95",
+      "name": "Verify Interactive Ability Report",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
+      "vector_index": 359
+    },
+    {
+      "assessment_id": "3976",
+      "document_checksum": "sha256:5b2e18fe2b09c4e44ccd0781bce2320215a65c11a7e342c189eeb58f2163ac3a",
+      "name": "Verify Interactive G+ Candidate Report",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
+      "vector_index": 360
+    },
+    {
+      "assessment_id": "3974",
+      "document_checksum": "sha256:5a8c2f76af627b537fcb2c5d23d2de6e019357bc565bdf7231a1770379ace464",
+      "name": "Verify Interactive G+ Report",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
+      "vector_index": 361
+    },
+    {
+      "assessment_id": "4290",
+      "document_checksum": "sha256:a05b0949dfec12cee785dba66368f15704e5e5f14df3c8a3caa5932f01bce6eb",
+      "name": "Verify Interactive Process Monitoring",
+      "test_types": [
+        "A"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+      "vector_index": 362
+    },
+    {
+      "assessment_id": "4215",
+      "document_checksum": "sha256:18c4851757e79cd3161aeaa6736bac93a365c41a88f9aabf36ae7bf5f6d6ce8f",
+      "name": "Virtual Assessment and Development Centers",
+      "test_types": [
+        "P"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
+      "vector_index": 363
+    },
+    {
+      "assessment_id": "4163",
+      "document_checksum": "sha256:335b6412642fdc00e20b3f8cb45f00b82c24b136db8203a45b991edb3a7d9b05",
+      "name": "Visual Basic for Applications (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
+      "vector_index": 364
+    },
+    {
+      "assessment_id": "399",
+      "document_checksum": "sha256:8ec24e664bf92280f95f234dc27c1a5ca9360c43cf9568acdf00cf0c866c47ab",
+      "name": "Visual Comparison - UK",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
+      "vector_index": 365
+    },
+    {
+      "assessment_id": "400",
+      "document_checksum": "sha256:a042c485214e2475d722989aaa3df20830afc0d33c491c9fd1c46aadc40df226",
+      "name": "Visual Comparison - US",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
+      "vector_index": 366
+    },
+    {
+      "assessment_id": "4164",
+      "document_checksum": "sha256:2112406b091a862fda3f4bd47cc67818401a7f9df914e60a64056423e77e1fda",
+      "name": "VLSI and Embedded Systems (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+      "vector_index": 367
+    },
+    {
+      "assessment_id": "3459",
+      "document_checksum": "sha256:34ee6a4a74386f460150108de5014cf2996f8f6a90cd91b168891591fb16588c",
+      "name": "What Is The Value - US",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
+      "vector_index": 368
+    },
+    {
+      "assessment_id": "3991",
+      "document_checksum": "sha256:7dac92b9c57ea6dc750a422fc91edf5ce5c4542e049ca4752cd126bc6daa9586",
+      "name": "Workplace Administration Skills (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
+      "vector_index": 369
+    },
+    {
+      "assessment_id": "4068",
+      "document_checksum": "sha256:f8889b71a854630e44b6aad5c935211b3d46cd6a6ee11f075cd6afc62050f971",
+      "name": "Workplace Health and Safety (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+      "vector_index": 370
+    },
+    {
+      "assessment_id": "4183",
+      "document_checksum": "sha256:5e64c7c2239285105a42fead1a874f5544800fb4063a60f455501623090b9bea",
+      "name": "WriteX - Email Writing (Customer Service) (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
+      "vector_index": 371
+    },
+    {
+      "assessment_id": "4184",
+      "document_checksum": "sha256:caa63e0b9381961f53de4c7a5f7f157b419ca9b1745d22ba03d9b17a3725b76d",
+      "name": "WriteX - Email Writing (Managerial) (New)",
+      "test_types": [
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
+      "vector_index": 372
+    },
+    {
+      "assessment_id": "4185",
+      "document_checksum": "sha256:5fb16aebbb7da4b2f8a2a062449b2f7a62aff3682e33415859ddeecd9b636877",
+      "name": "WriteX - Email Writing (Sales) (New)",
+      "test_types": [
+        "B",
+        "S"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
+      "vector_index": 373
+    },
+    {
+      "assessment_id": "17",
+      "document_checksum": "sha256:aa56f5d6293e760593203e224c65084663b23461429feec98f2a6c52c272f7b3",
+      "name": "Written English v1",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+      "vector_index": 374
+    },
+    {
+      "assessment_id": "18",
+      "document_checksum": "sha256:4ef44b8fc8f4309d83f27b5c2eb7929a9f2c51bf933e928ae75d404384f8d9a1",
+      "name": "Written Spanish",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+      "vector_index": 375
+    },
+    {
+      "assessment_id": "4166",
+      "document_checksum": "sha256:863f05f405cd3d58fad650f550a873201c759e4218ad920de53f4d77e6945b9e",
+      "name": "Zabbix (New)",
+      "test_types": [
+        "K"
+      ],
+      "url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+      "vector_index": 376
+    }
+  ],
+  "vector_count": 377
+}

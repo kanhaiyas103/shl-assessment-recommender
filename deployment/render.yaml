@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: shl-assessment-agent
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /health
+    autoDeploy: false
+    envVars:
+      - key: SHL_APP_ENV
+        value: production
+      - key: SHL_LOG_LEVEL
+        value: INFO
+      - key: SHL_LLM_PROVIDER
+        sync: false
+      - key: SHL_LLM_MODEL
+        sync: false
+      - key: SHL_LLM_API_KEY
+        sync: false
+      - key: SHL_LLM_BASE_URL
+        sync: false
