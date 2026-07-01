@@ -1,3 +1,9 @@
+---
+title: SHL Assessment Recommendation Agent
+sdk: docker
+app_port: 8000
+---
+
 # SHL Assessment Recommendation Agent
 
 A production-ready, stateless FastAPI service that recommends SHL Individual Test

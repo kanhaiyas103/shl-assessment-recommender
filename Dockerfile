@@ -15,21 +15,23 @@ FROM python:3.12-slim AS runtime
 
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
+    HOME=/home/user \
+    PATH=/home/user/.local/bin:$PATH \
     SHL_HOST=0.0.0.0 \
     SHL_PORT=8000
 
-RUN groupadd --system app \
-    && useradd --system --gid app --create-home app
+RUN useradd --create-home --uid 1000 user
 
 WORKDIR /app
 
 COPY --from=builder /wheels /wheels
 RUN python -m pip install --no-cache-dir /wheels/* \
-    && rm -rf /wheels
+    && rm -rf /wheels \
+    && chown -R user:user /app
 
-COPY --chown=app:app data ./data
+COPY --chown=user:user data ./data
 
-USER app
+USER user
 
 EXPOSE 8000
 
